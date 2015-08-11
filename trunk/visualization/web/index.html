@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>dc.js common charts</title>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/> 
+    <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+    <link rel="stylesheet" type="text/css" href="css/theme.css"/>
+
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/crossfilter.js"></script>
+    <script type="text/javascript" src="js/dc.js"></script>
+    <script type="text/javascript" src="js/lvt-data.js"></script>
+
+<style>
+    #monthly-volume-chart g.y {
+        display: none;
+    }
+    #logo {
+        margin-right: 2em;
+        margin-top: 2em;
+        margin-bottom: 2em;
+      }
+
+      #stacked_column .d4 .series0 .bar.fill, #stacked_column .average {
+          fill: #CD202C;
+          background-color: #CD202C;
+      }
+
+      #stacked_column .d4 .series1 .bar.fill, #stacked_column .gina {
+          fill: #AD005B;
+          background-color: #AD005B;
+      }
+
+      #stacked_column .d4 .series2 .bar.fill, #stacked_column .bob {
+          fill: #66307C;
+          background-color: #66307C;
+      }
+
+    .d3-tip {
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      border-radius: 8px;
+    }
+
+    /* Creates a small triangle extender for the tooltip */
+    .d3-tip:after {
+      box-sizing: border-box;
+      display: inline;
+      font-size: 10px;
+      width: 100%;
+      line-height: 1;
+      color: rgba(0, 0, 0, 0.8);
+      content: "\25BC";
+      position: absolute;
+      text-align: center;
+    }
+
+    /* Style northward tooltips differently */
+    .d3-tip.n:after {
+      margin: -1px 0 0 0;
+      top: 100%;
+      left: 0;
+    }
+
+
+    .serviceLabel {
+      font: 300 18px "Helvetica Neue";
+      color: #525252;
+    }
+
+    .chart-title {
+        font-family: 'Lato', futura, georgia;
+        letter-spacing: 1px;
+        line-height: 15px;
+        text-transform: Uppercase;
+        text-align: center;
+        color: #525252;
+        float: left;
+      }
+
+    h3 {
+      font-family: 'Helvetica Neue';
+      font-size: 24px;
+      font-weight: 300;
+    }
+
+    startEnd{
+      color: #000000;
+    }
+
+    body {
+      min-height: 2000px;
+    }
+
+    .clear {
+        clear: both;
+    }
+</style>
+        
+
+</head>
+<body>
+  <div class="container">
+      <div class="row">
+          <div id="header">
+                <div id="logo"><img  style="height: 70px;" src="lvt-logo.png"></div>
+                <div id="breadcrumbs">ESB Transactions </div>
+                <span class="reset" style="display: none;">Current filter: <span class="filter"></span></span>
+          </div>
+          <div id="menu">
+              <span class="btn-group" data-toggle="buttons-radio">
+                <button type="button" class="btn btn-default" id="btnToday active" onclick="barChartDate.x(d3.time.scale().domain([new Date(2012, 1, 20), new Date(2012, 3, 15)])).redraw()"><span></span>Today</button>
+                <button type="button" class="btn btn-default" id="btnYesterday" onclick="barChartDate.x(d3.time.scale().domain([new Date(2012, 2, 20), new Date(2012, 4, 15)])).redraw()"><span></span>Yesterday</button>
+                <button type="button" class="btn btn-default" id="btnThisMonth" onclick="barChartDate.x(d3.time.scale().domain([new Date(2012, 3, 20), new Date(2012, 5, 15)])).redraw()"><span></span>This Month</button>
+                <button type="button" class="btn btn-default" id="btnThisYear" onclick="barChartDate.x(d3.time.scale().domain([new Date(2012, 4, 20), new Date(2012, 7, 15)])).redraw()"><span></span>This Year</button>
+              </span>
+        </div>
+      </div>
+  </div>
+
+<div class="clear"></div>
+
+<div class="container" id="charts-container">
+    <div class="row">
+          <div id="service-pie-chart">
+              <span class="chart-title">SERVICE</span><span class="line"></span>
+              <a class="reset" href="javascript:pieChartValue.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+              <span class="reset" style="display: none;"><span class="filter"></span></span>
+              <div class="clearfix"></div>
+          </div>
+          <div id="operation-pie-chart">
+              <span class="chart-title">OPERATION</span><span class="line"></span>
+              <a class="reset" href="javascript:pieChartCountry.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+              <span class="reset" style="display: none;"><span class="filter"></span></span>
+              <div class="clearfix"></div>
+          </div>
+    </div>
+    <div class="row">
+          <div id="time-details-chart">
+            <span class="chart-title">TIME DETAILS</span><span class="line"></span>
+            <span class="reset"><a class="reset" href="javascript:barChartDate.filterAll();dc.redrawAll();">reset2</a></span> 
+            <span class="reset" style="display: none;"><span class="filter"></span></span>
+          </div>
+    </div>
+</div>
+
+
+
+<div class="clear"></div>
+
+<div class="container">
+
+    <div class="clear"></div>
+    <div class="row">
+        <div class="dc-data-count">
+            <span class="filter-count"></span> selected out of <span class="total-count"></span>
+            <span class="reset" style="display: none;">Current filter: <span class="filter"></span></span>
+        </div>
+
+        <div class="clear"></div>
+
+        <table class="dc-data-table">
+            <thead>
+            <tr>
+                <td>ID</td>
+                <td>Date</td>
+                <td>Status</td>
+                <td>Country</td>
+                <td>Value</td>
+            </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+<script type="text/javascript">
+var heightOfContainer = 450,
+    legendHeight = 150,
+    legendY = heightOfContainer - legendHeight;
+
+
+
+var pieChartValue = dc.pieChart("#service-pie-chart");
+//pieChartValue.xAxisPadding(legendY + 10); // 10 for padding
+//pieChartValue.margins().bottom = legendY + 20; // 20 for padding.
+//pieChartValue.legend(dc.legend().y(legendY));
+
+pieChartValue.width(300)
+        .height(450)
+        .radius(80)
+        .innerRadius(40)
+        .dimension(valueDimension)
+        .legend(dc.legend().x(0).y(220).itemHeight(13).gap(5))
+        .group(valueGroup)
+        .renderLabel(false);
+
+var pieChartCountry = dc.pieChart("#operation-pie-chart")
+        .width(300)
+        .height(450)
+        .radius(80)
+        .innerRadius(40)
+        .dimension(countryDimension)
+        .legend(dc.legend().x(0).y(220).itemHeight(13).gap(5))
+        .group(countryGroup)
+        .renderLabel(false);
+
+
+var barChartDate = dc.barChart("#time-details-chart");
+barChartDate.width(900)
+        .height(450)
+        .margins({top: 20, right: 20, bottom: 50, left: 30})
+        .dimension(dateDimension)
+        .group(dateIdSumGroup, "Id Sum")
+        .stack(dateValueSumGroup, "Value Sum")
+        .elasticY(true)
+        .stack(dateFixedSumGroup, "Fixed", function (d) {
+            return 10;
+        })
+        .gap(1)
+        .x(d3.time.scale().domain([new Date(2012, 5, 25), new Date(2012, 5, 26)]))
+        .legend(dc.legend().x(0).y(400).itemHeight(13).gap(5))
+        .xUnits(d3.time.days)
+        .xAxis().ticks(5);
+
+// rotate the x Axis labels
+
+d3.select("#service-pie-chart > svg > g")
+                    .attr("transform", "translate(200,100)");
+
+d3.select("#operation-pie-chart > svg > g")
+                    .attr("transform", "translate(200,100)");
+
+
+
+dc.dataCount(".dc-data-count")
+        .dimension(data)
+        .group(groupAll);
+
+dc.dataTable(".dc-data-table")
+        .dimension(dateDimension)
+        .group(function (d) {
+            return dateFormat(d3.time.day(d.dd));
+        })
+        .size(3)
+        .sortBy(function (d) {
+            return d.dd.getTime();
+        })
+        .columns([
+            function (d) {
+                return d.id;
+            },
+            function (d) {
+                return d.date;
+            },
+            function (d) {
+                return d.status;
+            },
+            function (d) {
+                return d.countrycode;
+            },
+            function (d) {
+                return d.value;
+            }
+        ]);
+
+dc.renderAll();
+
+
+
+</script>
+
+<div class="clear"></div>
+<div class="container">
+    <div class="row">
+        <div>
+            <a href="javascript:dc.renderAll();">Render All</a>
+            <a href="javascript:dc.filterAll(); dc.renderAll();">Filter All</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

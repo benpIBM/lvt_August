@@ -1,0 +1,201 @@
+/** CSS **/
+
+body {
+    background: #f7f9fa;
+    color: #6B7B84;
+}
+
+#wrapper {
+    width: 1168px;
+    margin: 0px auto;
+}
+
+#header {
+
+}
+
+#logo {
+    display: block;
+}
+
+#breadcrumbs {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #6B7B84;
+    padding: 0px;
+    font-family: helvetical, arial, sans-serif;
+    margin-left: 115px;
+}
+
+#contentwrapper {
+    margin-left: 125px;
+}
+
+#menu {
+    display: inline-block;
+    margin-top: 5px;
+    background: #6b7b84;
+    padding: 7px;
+    padding-left: 100px;
+    width: 100%;
+}
+
+#menu span {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 0px;
+    font-family: helvetical, arial, sans-serif;
+    float: left;
+    display: block;
+}
+
+#menu span:hover {
+}
+
+#menu span input {
+    float: left;
+    display: block;
+    margin: 3px 10px;
+}
+
+#menu span label {
+    float: left;
+    display: block;
+}
+
+#charts-container {
+    padding-left: 225px;
+    padding-top: 40px;
+}
+
+#charts-container .row {
+    min-height: 450px;
+}
+
+#topbox, #midbox, #bottombox {
+    display: inline-block;
+    width: 100%;
+    float: none;
+}
+
+h3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #6B7B84;
+    padding: 10px 0px;
+    font-family: helvetical, arial, sans-serif;
+    font-weight: normal;
+    border-bottom: 1px solid #6b7b84;
+    float: left;
+}
+
+#time-series-chart {
+    display: block;
+    width: 100%;
+}
+
+#service-pie-chart, #operation-pie-chart {
+    display: block;
+    float: left;
+    width: 49%;
+}
+
+#service-pie-chart svg g {
+    text-align: top;
+    
+}
+
+.btn-default {
+    border: none;
+    background: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+.btn-default:active, .btn-default.active, .btn-default:hover, .btn-default.hover {
+    border:none;
+    box-shadow: none;
+    background: none;
+    color: #ffffff;
+}
+
+.reset {
+margin-top:10px;
+
+}
+
+#menu .btn-default span {
+    border: 1px solid #9a9a9a;
+    border-radius: 15px;
+    padding: 0px;
+    height: 15px;
+    width: 15px;
+    margin: 2px 5px;
+}
+
+#menu .btn-default:active span, #menu .btn-default.active span {
+    border: 1px solid #9a9a9a;
+    border-radius: 15px;
+    padding: 0px;
+    height: 15px;
+    width: 15px;
+    margin: 2px 5px;
+    background: #9a9a9a;
+}
+
+#menu .btn-group > #active span, #menu .btn-group.active span {
+    border: 1px solid #9a9a9a;
+    border-radius: 15px;
+    padding: 0px;
+    height: 15px;
+    width: 15px;
+    margin: 2px 5px;
+    background: #9a9a9a;
+}
+
+#service-pie-chart span, #operation-pie-chart span, #p2service-pie-chart span, #p2operation-pie-chart span, #p3service-pie-chart span, #p3operation-pie-chart span, #p4service-pie-chart span, #p4operation-pie-chart span {
+    float: left;
+    width: 25%;
+    text-align: left;
+}
+
+#service-pie-chart span.line, #operation-pie-chart span.line, #p2service-pie-chart span.line, #p2operation-pie-chart span.line, #p3service-pie-chart span.line, #p3operation-pie-chart span.line, #p4service-pie-chart span.line, #p4operation-pie-chart span.line {
+    border-top: 1px solid #9a9a9a;
+    float: left;
+    width: 70%;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+#time-details-chart span, #p2time-details-chart span, #p3time-details-chart span, #p4time-details-chart span {
+    float: left;
+    width: 13%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+#time-details-chart span.line, #p2time-details-chart span.line, #p3time-details-chart span.line, #p4time-details-chart span.line {
+    border-top: 1px solid #9a9a9a;
+    float: left;
+    width: 85%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 10px;
+}
+
+#top-container {
+    display: inline-block;
+    width: 100%;
+}
+
+#service-pie-chart, #operation-pie-chart, #p2service-pie-chart, #p2operation-pie-chart, #p3service-pie-chart, #p3operation-pie-chart, #p2operation-pie-chart, #p4service-pie-chart, #p4operation-pie-chart {
+    width: 50%;
+}
+
+#time-details-chart, #p2time-details-chart, #p3time-details-chart, #p4time-details-chart {
+    width: 100%;
+}

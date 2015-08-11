@@ -1,0 +1,1261 @@
+Date,Contact,Message,Log Level
+2014-02-20 15:31:25,jeff@tecreps.com,AlarmId: 35 - DoorSensor is Open,info
+2014-02-20 15:31:25,9258587466@messaging.sprintpcs.com,AlarmId: 35 - DoorSensor is Open,info
+2014-02-20 16:21:10,jeff@tecreps.com,AlarmId: 37 - DoorSensor is Open,info
+2014-02-20 16:21:10,9258587466@messaging.sprintpcs.com,AlarmId: 37 - DoorSensor is Open,info
+2014-03-17 07:43:18,jeff@tecreps.com,AlarmId: 46 - DoorSensor is Open,info
+2014-03-17 07:43:18,9258587466@messaging.sprintpcs.com,AlarmId: 46 - DoorSensor is Open,info
+2014-03-17 07:43:48,jeff@tecreps.com,AlarmId: 47 - DoorSensor is Open,info
+2014-03-17 07:43:49,9258587466@messaging.sprintpcs.com,AlarmId: 47 - DoorSensor is Open,info
+2014-03-17 07:43:55,jeff@tecreps.com,AlarmId: 48 - DoorSensor is Open,info
+2014-03-17 07:43:55,9258587466@messaging.sprintpcs.com,AlarmId: 48 - DoorSensor is Open,info
+2014-03-17 07:48:29,jeff@tecreps.com,AlarmId: 49 - DoorSensor is Closed,info
+2014-03-17 07:48:29,9258587466@messaging.sprintpcs.com,AlarmId: 49 - DoorSensor is Closed,info
+2014-03-17 07:48:29,6507668513@vtext.com,AlarmId: 49 - DoorSensor is Closed,info
+2014-03-17 08:53:49,jeff@tecreps.com,AlarmId: 50 - DoorSensor is Open,info
+2014-03-17 08:53:49,9258587466@messaging.sprintpcs.com,AlarmId: 50 - DoorSensor is Open,info
+2014-03-17 08:53:49,6507668513@vtext.com,AlarmId: 50 - DoorSensor is Open,info
+2014-03-17 09:06:03,jeff@tecreps.com,AlarmId: 51 - DoorSensor is Closed,info
+2014-03-17 09:06:03,9258587466@messaging.sprintpcs.com,AlarmId: 51 - DoorSensor is Closed,info
+2014-03-17 09:06:03,6507668513@vtext.com,AlarmId: 51 - DoorSensor is Closed,info
+2014-03-17 09:09:34,jeff@tecreps.com,AlarmId: 52 - DoorSensor is Open,info
+2014-03-17 09:09:34,9258587466@messaging.sprintpcs.com,AlarmId: 52 - DoorSensor is Open,info
+2014-03-17 09:09:34,6507668513@vtext.com,AlarmId: 52 - DoorSensor is Open,info
+2014-03-17 09:14:08,jeff@tecreps.com,AlarmId: 53 - DoorSensor is Closed,info
+2014-03-17 09:14:08,9258587466@messaging.sprintpcs.com,AlarmId: 53 - DoorSensor is Closed,info
+2014-03-17 09:14:08,6507668513@vtext.com,AlarmId: 53 - DoorSensor is Closed,info
+2014-03-17 09:18:38,jeff@tecreps.com,AlarmId: 54 - DoorSensor is Open,info
+2014-03-17 09:18:38,9258587466@messaging.sprintpcs.com,AlarmId: 54 - DoorSensor is Open,info
+2014-03-17 09:18:38,6507668513@vtext.com,AlarmId: 54 - DoorSensor is Open,info
+2014-03-17 09:18:38,5105516700@messaging.sprintpcs.com,AlarmId: 54 - DoorSensor is Open,info
+2014-04-06 11:17:01,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:01,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:01,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:02,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:15,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:15,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:15,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:15,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:27,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:28,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:28,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:28,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:41,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:42,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:42,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:42,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:55,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:56,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:56,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:17:56,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:18:10,jeff@tecreps.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:18:10,9258587466@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:18:10,6507668513@vtext.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:18:10,5105516700@messaging.sprintpcs.com,AlarmId: 492 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:27:55,jeff@tecreps.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:27:55,9258587466@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:27:55,6507668513@vtext.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:27:55,5105516700@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:27:55,9258587466@pm.sprint.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:07,jeff@tecreps.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:08,9258587466@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:08,6507668513@vtext.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:08,5105516700@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:08,9258587466@pm.sprint.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:19,jeff@tecreps.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:19,9258587466@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:20,6507668513@vtext.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:20,5105516700@messaging.sprintpcs.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-06 11:28:20,9258587466@pm.sprint.com,AlarmId: 493 - CO Sensor (-0.00 ppm) = 0.00,info
+2014-04-07 10:59:33,jeff@tecreps.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:33,9258587466@messaging.sprintpcs.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:33,6507668513@vtext.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:33,5105516700@messaging.sprintpcs.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:33,9258587466@pm.sprint.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:33,6022841030@mms.att.net,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,jeff@tecreps.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,9258587466@messaging.sprintpcs.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,6507668513@vtext.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,5105516700@messaging.sprintpcs.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,9258587466@pm.sprint.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:44,6022841030@mms.att.net,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:46,jeff@tecreps.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:46,9258587466@messaging.sprintpcs.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:46,6507668513@vtext.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:46,5105516700@messaging.sprintpcs.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:46,9258587466@pm.sprint.com,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 10:59:47,6022841030@mms.att.net,AlarmId: 494 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,jeff@tecreps.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,9258587466@messaging.sprintpcs.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,6507668513@vtext.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,5105516700@messaging.sprintpcs.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,9258587466@pm.sprint.com,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-07 11:00:00,6022841030@mms.att.net,AlarmId: 495 - CO Sensor (12.00 ppm) > 10.00,info
+2014-04-23 16:34:20,jeff@tecreps.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:34:20,9258587466@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:34:20,6507668513@vtext.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:34:20,5105516700@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:34:20,9258587466@pm.sprint.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:37:11,jeff@tecreps.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:37:11,9258587466@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:37:11,6507668513@vtext.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:37:11,5105516700@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 16:37:11,9258587466@pm.sprint.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:12:21,jeff@tecreps.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:12:21,9258587466@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:12:21,6507668513@vtext.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:12:21,5105516700@messaging.sprintpcs.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:12:21,9258587466@pm.sprint.com,AlarmId: 1768 - CO Sensor (188.62 ppm) > 10.00,info
+2014-04-23 17:43:36,jeff@tecreps.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:36,9258587466@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:36,6507668513@vtext.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:36,5105516700@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:36,9258587466@pm.sprint.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:48,jeff@tecreps.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:48,9258587466@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:48,6507668513@vtext.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:48,5105516700@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:43:48,9258587466@pm.sprint.com,AlarmId: 3781 - CO2 Sensor (49.240 %) > 10.000,info
+2014-04-23 17:44:02,jeff@tecreps.com,AlarmId: 3781 - CO2 Sensor (49.258 %) > 10.000,info
+2014-04-23 17:44:02,9258587466@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.258 %) > 10.000,info
+2014-04-23 17:44:02,6507668513@vtext.com,AlarmId: 3781 - CO2 Sensor (49.258 %) > 10.000,info
+2014-04-23 17:44:02,5105516700@messaging.sprintpcs.com,AlarmId: 3781 - CO2 Sensor (49.258 %) > 10.000,info
+2014-04-23 17:44:02,9258587466@pm.sprint.com,AlarmId: 3781 - CO2 Sensor (49.258 %) > 10.000,info
+2014-04-23 17:47:18,jeff@tecreps.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:18,9258587466@messaging.sprintpcs.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:18,6507668513@vtext.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:18,5105516700@messaging.sprintpcs.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:18,9258587466@pm.sprint.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:30,jeff@tecreps.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:30,9258587466@messaging.sprintpcs.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:30,6507668513@vtext.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:30,5105516700@messaging.sprintpcs.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:30,9258587466@pm.sprint.com,AlarmId: 3785 - CO2 Sensor (18.865 %) > 10.000,info
+2014-04-23 17:47:48,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:47:48,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:47:48,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:47:48,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:47:48,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:00,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:00,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:00,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:00,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:00,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.112 %) > 10.000,info
+2014-04-23 17:48:14,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.140 %) > 10.000,info
+2014-04-23 17:48:14,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.140 %) > 10.000,info
+2014-04-23 17:48:14,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.140 %) > 10.000,info
+2014-04-23 17:48:14,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.140 %) > 10.000,info
+2014-04-23 17:48:14,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.140 %) > 10.000,info
+2014-04-23 17:48:27,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.168 %) > 10.000,info
+2014-04-23 17:48:27,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.168 %) > 10.000,info
+2014-04-23 17:48:27,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.168 %) > 10.000,info
+2014-04-23 17:48:27,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.168 %) > 10.000,info
+2014-04-23 17:48:27,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.168 %) > 10.000,info
+2014-04-23 17:48:40,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.202 %) > 10.000,info
+2014-04-23 17:48:40,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.202 %) > 10.000,info
+2014-04-23 17:48:40,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.202 %) > 10.000,info
+2014-04-23 17:48:40,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.202 %) > 10.000,info
+2014-04-23 17:48:40,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.202 %) > 10.000,info
+2014-04-23 17:48:54,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 17:48:54,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 17:48:54,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 17:48:54,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 17:48:54,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 17:49:07,jeff@tecreps.com,AlarmId: 3786 - CO2 Sensor (49.268 %) > 10.000,info
+2014-04-23 17:49:07,9258587466@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.268 %) > 10.000,info
+2014-04-23 17:49:07,6507668513@vtext.com,AlarmId: 3786 - CO2 Sensor (49.268 %) > 10.000,info
+2014-04-23 17:49:07,5105516700@messaging.sprintpcs.com,AlarmId: 3786 - CO2 Sensor (49.268 %) > 10.000,info
+2014-04-23 17:49:07,9258587466@pm.sprint.com,AlarmId: 3786 - CO2 Sensor (49.268 %) > 10.000,info
+2014-04-23 17:58:25,jeff@tecreps.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:25,9258587466@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:25,6507668513@vtext.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:25,5105516700@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:25,9258587466@pm.sprint.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:37,jeff@tecreps.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:37,9258587466@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:38,6507668513@vtext.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:38,5105516700@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:38,9258587466@pm.sprint.com,AlarmId: 3800 - CO2 Sensor (49.118 %) > 10.000,info
+2014-04-23 17:58:50,jeff@tecreps.com,AlarmId: 3800 - CO2 Sensor (49.146 %) > 10.000,info
+2014-04-23 17:58:50,9258587466@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.146 %) > 10.000,info
+2014-04-23 17:58:50,6507668513@vtext.com,AlarmId: 3800 - CO2 Sensor (49.146 %) > 10.000,info
+2014-04-23 17:58:51,5105516700@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.146 %) > 10.000,info
+2014-04-23 17:58:51,9258587466@pm.sprint.com,AlarmId: 3800 - CO2 Sensor (49.146 %) > 10.000,info
+2014-04-23 17:59:04,jeff@tecreps.com,AlarmId: 3800 - CO2 Sensor (49.175 %) > 10.000,info
+2014-04-23 17:59:04,9258587466@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.175 %) > 10.000,info
+2014-04-23 17:59:04,6507668513@vtext.com,AlarmId: 3800 - CO2 Sensor (49.175 %) > 10.000,info
+2014-04-23 17:59:05,5105516700@messaging.sprintpcs.com,AlarmId: 3800 - CO2 Sensor (49.175 %) > 10.000,info
+2014-04-23 17:59:05,9258587466@pm.sprint.com,AlarmId: 3800 - CO2 Sensor (49.175 %) > 10.000,info
+2014-04-23 18:02:21,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:21,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:21,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:21,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:21,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:33,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:33,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:34,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:34,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:34,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (18.359 %) > 10.000,info
+2014-04-23 18:02:47,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.215 %) > 10.000,info
+2014-04-23 18:02:48,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.215 %) > 10.000,info
+2014-04-23 18:02:48,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.215 %) > 10.000,info
+2014-04-23 18:02:48,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.215 %) > 10.000,info
+2014-04-23 18:02:48,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.215 %) > 10.000,info
+2014-04-23 18:03:01,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 18:03:01,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 18:03:02,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 18:03:02,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 18:03:02,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.237 %) > 10.000,info
+2014-04-23 18:03:15,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.264 %) > 10.000,info
+2014-04-23 18:03:16,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.264 %) > 10.000,info
+2014-04-23 18:03:16,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.264 %) > 10.000,info
+2014-04-23 18:03:16,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.264 %) > 10.000,info
+2014-04-23 18:03:16,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.264 %) > 10.000,info
+2014-04-23 18:03:29,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.296 %) > 10.000,info
+2014-04-23 18:03:29,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.296 %) > 10.000,info
+2014-04-23 18:03:30,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.296 %) > 10.000,info
+2014-04-23 18:03:30,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.296 %) > 10.000,info
+2014-04-23 18:03:30,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.296 %) > 10.000,info
+2014-04-23 18:03:43,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.321 %) > 10.000,info
+2014-04-23 18:03:44,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.321 %) > 10.000,info
+2014-04-23 18:03:44,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.321 %) > 10.000,info
+2014-04-23 18:03:44,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.321 %) > 10.000,info
+2014-04-23 18:03:44,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.321 %) > 10.000,info
+2014-04-23 18:03:57,jeff@tecreps.com,AlarmId: 3802 - CO2 Sensor (49.343 %) > 10.000,info
+2014-04-23 18:03:58,9258587466@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.343 %) > 10.000,info
+2014-04-23 18:03:58,6507668513@vtext.com,AlarmId: 3802 - CO2 Sensor (49.343 %) > 10.000,info
+2014-04-23 18:03:58,5105516700@messaging.sprintpcs.com,AlarmId: 3802 - CO2 Sensor (49.343 %) > 10.000,info
+2014-04-23 18:03:58,9258587466@pm.sprint.com,AlarmId: 3802 - CO2 Sensor (49.343 %) > 10.000,info
+2014-04-23 18:05:26,jeff@tecreps.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:26,9258587466@messaging.sprintpcs.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:26,6507668513@vtext.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:26,5105516700@messaging.sprintpcs.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:26,9258587466@pm.sprint.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:39,jeff@tecreps.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:39,9258587466@messaging.sprintpcs.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:39,6507668513@vtext.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:39,5105516700@messaging.sprintpcs.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:05:39,9258587466@pm.sprint.com,AlarmId: 3803 - CO2 Sensor (49.290 %) > 10.000,info
+2014-04-23 18:11:09,jeff@tecreps.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:09,9258587466@messaging.sprintpcs.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:09,6507668513@vtext.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:09,5105516700@messaging.sprintpcs.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:09,9258587466@pm.sprint.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:21,jeff@tecreps.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:21,9258587466@messaging.sprintpcs.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:21,6507668513@vtext.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:21,5105516700@messaging.sprintpcs.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-04-23 18:11:22,9258587466@pm.sprint.com,AlarmId: 3805 - CO2 Sensor (18.862 %) > 10.000,info
+2014-12-05 09:03:20,6507668513@vtext.com,AlarmId: 29086 - PressureMat is Activated,info
+2014-12-05 09:03:20,6507668513@vzwpix.com,AlarmId: 29086 - PressureMat is Activated,info
+2014-12-05 09:03:22,6507668513@vtext.com,AlarmId: 29087 - PressureMat is Activated,info
+2014-12-05 09:03:22,6507668513@vzwpix.com,AlarmId: 29087 - PressureMat is Activated,info
+2014-12-05 09:11:05,6507668513@vtext.com,AlarmId: 29088 - PressureMat is Activated,info
+2014-12-05 09:11:05,6507668513@vzwpix.com,AlarmId: 29088 - PressureMat is Activated,info
+2014-12-05 09:11:14,6507668513@vtext.com,AlarmId: 29089 - PressureMat is Activated,info
+2014-12-05 09:11:14,6507668513@vzwpix.com,AlarmId: 29089 - PressureMat is Activated,info
+2014-12-05 11:02:03,6507668513@vtext.com,AlarmId: 29091 - PressureMat is Activated,info
+2014-12-05 11:02:03,6507668513@vzwpix.com,AlarmId: 29091 - PressureMat is Activated,info
+2014-12-05 11:43:01,6507668513@vtext.com,AlarmId: 29092 - PressureMat is Activated,info
+2014-12-05 11:43:01,6507668513@vzwpix.com,AlarmId: 29092 - PressureMat is Activated,info
+2014-12-05 19:31:01,6507668513@vtext.com,AlarmId: 29093 - PressureMat is Activated,info
+2014-12-05 19:31:01,6507668513@vzwpix.com,AlarmId: 29093 - PressureMat is Activated,info
+2014-12-06 09:30:28,6507668513@vtext.com,AlarmId: 29094 - PressureMat is Activated,info
+2014-12-06 09:30:28,6507668513@vzwpix.com,AlarmId: 29094 - PressureMat is Activated,info
+2014-12-06 09:30:30,6507668513@vtext.com,AlarmId: 29095 - PressureMat is Activated,info
+2014-12-06 09:30:30,6507668513@vzwpix.com,AlarmId: 29095 - PressureMat is Activated,info
+2014-12-06 11:44:37,6507668513@vtext.com,AlarmId: 29096 - PressureMat is Activated,info
+2014-12-06 11:44:37,6507668513@vzwpix.com,AlarmId: 29096 - PressureMat is Activated,info
+2014-12-06 11:44:38,6507668513@vtext.com,AlarmId: 29097 - PressureMat is Activated,info
+2014-12-06 11:44:38,6507668513@vzwpix.com,AlarmId: 29097 - PressureMat is Activated,info
+2014-12-06 11:44:40,6507668513@vtext.com,AlarmId: 29098 - PressureMat is Activated,info
+2014-12-06 11:44:40,6507668513@vzwpix.com,AlarmId: 29098 - PressureMat is Activated,info
+2014-12-06 11:44:44,6507668513@vtext.com,AlarmId: 29099 - PressureMat is Activated,info
+2014-12-06 11:44:44,6507668513@vzwpix.com,AlarmId: 29099 - PressureMat is Activated,info
+2014-12-06 11:44:46,6507668513@vtext.com,AlarmId: 29100 - PressureMat is Activated,info
+2014-12-06 11:44:46,6507668513@vzwpix.com,AlarmId: 29100 - PressureMat is Activated,info
+2014-12-06 12:41:09,6507668513@vtext.com,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:41:09,6507668513@vzwpix.com,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:41:09,5108621285@txt.att.net,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:41:09,5108621285@mms.att.net,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:41:09,5105436271@txt.att.net,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:41:09,5105436271@mms.att.net,AlarmId: 29101 - PressureMat is Activated,info
+2014-12-06 12:50:03,6507668513@vtext.com,AlarmId: 29102 - Temp Simulation Sensor (32.2 °C) >= 30.0,info
+2014-12-06 12:50:03,5108621285@txt.att.net,AlarmId: 29102 - Temp Simulation Sensor (32.2 °C) >= 30.0,info
+2014-12-06 12:50:03,5105436271@txt.att.net,AlarmId: 29102 - Temp Simulation Sensor (32.2 °C) >= 30.0,info
+2014-12-06 12:50:03,5714378489@vtext.com,AlarmId: 29102 - Temp Simulation Sensor (32.2 °C) >= 30.0,info
+2014-12-06 12:55:21,6507668513@vtext.com,AlarmId: 29103 - Temp Simulation Sensor (18.0 °C) <= 20.0,info
+2014-12-06 12:55:21,5108621285@txt.att.net,AlarmId: 29103 - Temp Simulation Sensor (18.0 °C) <= 20.0,info
+2014-12-06 12:55:21,5105436271@txt.att.net,AlarmId: 29103 - Temp Simulation Sensor (18.0 °C) <= 20.0,info
+2014-12-06 12:55:21,5714378489@vtext.com,AlarmId: 29103 - Temp Simulation Sensor (18.0 °C) <= 20.0,info
+2014-12-06 13:05:36,6507668513@vtext.com,AlarmId: 29104 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2014-12-06 13:05:36,5108621285@txt.att.net,AlarmId: 29104 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2014-12-06 13:05:36,5105436271@txt.att.net,AlarmId: 29104 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2014-12-06 13:05:36,5714378489@vtext.com,AlarmId: 29104 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2014-12-06 13:16:41,6507668513@vtext.com,AlarmId: 29105 - Temp Simulation Sensor (36.1 °C) >= 30.0,info
+2014-12-06 13:16:41,5108621285@txt.att.net,AlarmId: 29105 - Temp Simulation Sensor (36.1 °C) >= 30.0,info
+2014-12-06 13:16:41,5105436271@txt.att.net,AlarmId: 29105 - Temp Simulation Sensor (36.1 °C) >= 30.0,info
+2014-12-06 13:16:41,5714378489@vtext.com,AlarmId: 29105 - Temp Simulation Sensor (36.1 °C) >= 30.0,info
+2014-12-06 13:16:55,6507668513@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:55,5108621285@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:55,5105436271@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:55,5714378489@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:57,6507668513@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:57,5108621285@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:57,5105436271@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:16:57,5714378489@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:17:06,6507668513@vzwpix.com,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:06,5108621285@mms.att.net,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:06,5105436271@mms.att.net,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:06,5714378489@vzwpix.com,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:08,6507668513@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:17:08,5108621285@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:17:08,5105436271@mms.att.net,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:17:08,5714378489@vzwpix.com,AlarmId: 29106 - PressureMat is Activated,info
+2014-12-06 13:17:19,6507668513@vzwpix.com,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:19,5108621285@mms.att.net,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:19,5105436271@mms.att.net,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-06 13:17:19,5714378489@vzwpix.com,AlarmId: 29109 - PressureMat is Activated,info
+2014-12-08 08:31:23,6507668513@vtext.com,AlarmId: 29111 - Temp Simulation Sensor (30.0 °C) >= 30.0,info
+2014-12-08 08:31:23,5108621285@txt.att.net,AlarmId: 29111 - Temp Simulation Sensor (30.0 °C) >= 30.0,info
+2014-12-08 08:31:23,5105436271@txt.att.net,AlarmId: 29111 - Temp Simulation Sensor (30.0 °C) >= 30.0,info
+2014-12-08 08:31:24,5714378489@vtext.com,AlarmId: 29111 - Temp Simulation Sensor (30.0 °C) >= 30.0,info
+2014-12-08 08:49:28,6507668513@vtext.com,AlarmId: 29112 - Temp Simulation Sensor (36.2 °C) >= 30.0,info
+2014-12-08 08:49:28,5108621285@txt.att.net,AlarmId: 29112 - Temp Simulation Sensor (36.2 °C) >= 30.0,info
+2014-12-08 08:49:28,5105436271@txt.att.net,AlarmId: 29112 - Temp Simulation Sensor (36.2 °C) >= 30.0,info
+2014-12-08 08:49:28,5714378489@vtext.com,AlarmId: 29112 - Temp Simulation Sensor (36.2 °C) >= 30.0,info
+2014-12-08 08:51:24,6507668513@vtext.com,AlarmId: 29113 - Temp Simulation Sensor (30.1 °C) >= 30.0,info
+2014-12-08 08:51:24,5108621285@txt.att.net,AlarmId: 29113 - Temp Simulation Sensor (30.1 °C) >= 30.0,info
+2014-12-08 08:51:24,5105436271@txt.att.net,AlarmId: 29113 - Temp Simulation Sensor (30.1 °C) >= 30.0,info
+2014-12-08 08:51:24,5714378489@vtext.com,AlarmId: 29113 - Temp Simulation Sensor (30.1 °C) >= 30.0,info
+2014-12-08 09:09:26,6507668513@vtext.com,AlarmId: 29114 - Temp Simulation Sensor (31.0 °C) >= 30.0,info
+2014-12-08 09:09:26,5108621285@txt.att.net,AlarmId: 29114 - Temp Simulation Sensor (31.0 °C) >= 30.0,info
+2014-12-08 09:09:26,5105436271@txt.att.net,AlarmId: 29114 - Temp Simulation Sensor (31.0 °C) >= 30.0,info
+2014-12-08 09:09:26,5714378489@vtext.com,AlarmId: 29114 - Temp Simulation Sensor (31.0 °C) >= 30.0,info
+2014-12-08 09:10:40,6507668513@vzwpix.com,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:40,5108621285@mms.att.net,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:40,5105436271@mms.att.net,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:40,5714378489@vzwpix.com,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:51,6507668513@vzwpix.com,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:51,5108621285@mms.att.net,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:51,5105436271@mms.att.net,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-08 09:10:51,5714378489@vzwpix.com,AlarmId: 29115 - PressureMat is Activated,info
+2014-12-10 17:14:37,6507668513@vtext.com,AlarmId: 29117 - Temp Simulation Sensor (34.4 °C) >= 30.0,info
+2014-12-10 17:14:37,5108621285@txt.att.net,AlarmId: 29117 - Temp Simulation Sensor (34.4 °C) >= 30.0,info
+2014-12-10 17:14:42,5105436271@txt.att.net,AlarmId: 29117 - Temp Simulation Sensor (34.4 °C) >= 30.0,info
+2014-12-10 17:14:42,5714378489@vtext.com,AlarmId: 29117 - Temp Simulation Sensor (34.4 °C) >= 30.0,info
+2014-12-10 17:37:20,6507668513@vtext.com,AlarmId: 29118 - Temp Simulation Sensor (30.9 °C) >= 30.0,info
+2014-12-10 17:37:20,5108621285@txt.att.net,AlarmId: 29118 - Temp Simulation Sensor (30.9 °C) >= 30.0,info
+2014-12-10 17:37:20,5105436271@txt.att.net,AlarmId: 29118 - Temp Simulation Sensor (30.9 °C) >= 30.0,info
+2014-12-10 17:37:25,5714378489@vtext.com,AlarmId: 29118 - Temp Simulation Sensor (30.9 °C) >= 30.0,info
+2014-12-11 10:03:52,6507668513@vzwpix.com,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:03:52,5108621285@mms.att.net,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:03:53,5105436271@mms.att.net,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:03:53,5714378489@vzwpix.com,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:04:03,6507668513@vzwpix.com,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:04:03,5108621285@mms.att.net,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:04:03,5105436271@mms.att.net,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 10:04:04,5714378489@vzwpix.com,AlarmId: 29119 - PressureMat is Activated,info
+2014-12-11 15:10:55,6507668513@vzwpix.com,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:10:55,5108621285@mms.att.net,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:00,5105436271@mms.att.net,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:05,5714378489@vzwpix.com,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:06,6507668513@vzwpix.com,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:06,5108621285@mms.att.net,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:07,5105436271@mms.att.net,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:11:07,5714378489@vzwpix.com,AlarmId: 29121 - PressureMat is Activated,info
+2014-12-11 15:22:52,6507668513@vzwpix.com,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:22:52,5108621285@mms.att.net,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:22:53,5105436271@mms.att.net,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:22:53,5714378489@vzwpix.com,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:23:05,6507668513@vzwpix.com,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:23:05,5108621285@mms.att.net,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:23:05,5105436271@mms.att.net,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 15:23:06,5714378489@vzwpix.com,AlarmId: 29123 - PressureMat is Activated,info
+2014-12-11 19:58:39,6507668513@vzwpix.com,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:39,5108621285@mms.att.net,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:39,5105436271@mms.att.net,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:39,5714378489@vzwpix.com,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:51,6507668513@vzwpix.com,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:51,5108621285@mms.att.net,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:51,5105436271@mms.att.net,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-11 19:58:51,5714378489@vzwpix.com,AlarmId: 29125 - PressureMat is Activated,info
+2014-12-12 12:18:23,6507668513@vzwpix.com,AlarmId: 29127 - PressureMat is Activated,info
+2014-12-12 12:18:34,6507668513@vzwpix.com,AlarmId: 29127 - PressureMat is Activated,info
+2014-12-14 11:11:49,6507668513@vtext.com,AlarmId: 29129 - Temp Simulation Sensor (30.2 °C) >= 30.0,info
+2014-12-15 21:37:21,6507668513@vtext.com,AlarmId: 13146 - Temp Simulation Sensor (34.0 °C) >= 30.0,info
+2014-12-16 12:01:36,6507668513@vtext.com,AlarmId: 13147 - Temp Simulation Sensor (33.0 °C) >= 30.0,info
+2014-12-16 15:46:19,6507668513@vzwpix.com,AlarmId: 13148 - PressureMat is Activated,info
+2014-12-16 15:46:30,6507668513@vzwpix.com,AlarmId: 13148 - PressureMat is Activated,info
+2014-12-16 16:59:43,6507668513@vtext.com,AlarmId: 13150 - Temp Simulation Sensor (30.0 °C) >= 30.0,info
+2014-12-16 21:50:40,6507668513@vzwpix.com,AlarmId: 13151 - PressureMat is Activated,info
+2014-12-16 21:50:51,6507668513@vzwpix.com,AlarmId: 13151 - PressureMat is Activated,info
+2014-12-16 21:57:05,6507668513@vzwpix.com,AlarmId: 13153 - PressureMat is Activated,info
+2014-12-16 21:57:16,6507668513@vzwpix.com,AlarmId: 13153 - PressureMat is Activated,info
+2014-12-18 09:20:42,6507668513@vtext.com,AlarmId: 13155 - Temp Simulation Sensor (30.5 °C) >= 30.0,info
+2014-12-18 16:49:50,6507668513@vzwpix.com,AlarmId: 13156 - PressureMat is Activated,info
+2014-12-18 16:50:07,6507668513@vzwpix.com,AlarmId: 13156 - PressureMat is Activated,info
+2014-12-22 14:09:25,6507668513@vzwpix.com,AlarmId: 13160 - PressureMat is Activated,info
+2014-12-22 14:09:37,6507668513@vzwpix.com,AlarmId: 13160 - PressureMat is Activated,info
+2014-12-22 14:14:58,6507668513@vzwpix.com,AlarmId: 13162 - PressureMat is Activated,info
+2014-12-22 14:15:10,6507668513@vzwpix.com,AlarmId: 13162 - PressureMat is Activated,info
+2014-12-22 15:57:45,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:57:51,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:57:52,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:57:56,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:57:57,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:57:57,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 15:58:09,6507668513@vzwpix.com,AlarmId: 13164 - PressureMat is Activated,info
+2014-12-22 16:03:38,6507668513@vzwpix.com,AlarmId: 13170 - PressureMat is Activated,info
+2014-12-22 16:03:39,6507668513@vzwpix.com,AlarmId: 13170 - PressureMat is Activated,info
+2014-12-22 16:03:44,6507668513@vzwpix.com,AlarmId: 13170 - PressureMat is Activated,info
+2014-12-22 16:03:45,6507668513@vzwpix.com,AlarmId: 13174 - PressureMat is Activated,info
+2014-12-22 16:03:50,6507668513@vzwpix.com,AlarmId: 13170 - PressureMat is Activated,info
+2014-12-22 16:04:01,6507668513@vzwpix.com,AlarmId: 13174 - PressureMat is Activated,info
+2014-12-22 16:04:12,6507668513@vzwpix.com,AlarmId: 13174 - PressureMat is Activated,info
+2014-12-22 16:26:14,6507668513@vzwpix.com,AlarmId: 13176 - PressureMat is Activated,info
+2014-12-22 16:26:16,6507668513@vzwpix.com,AlarmId: 13176 - PressureMat is Activated,info
+2014-12-22 16:26:22,6507668513@vzwpix.com,AlarmId: 13179 - PressureMat is Activated,info
+2014-12-22 16:26:26,6507668513@vzwpix.com,AlarmId: 13176 - PressureMat is Activated,info
+2014-12-22 16:26:27,6507668513@vzwpix.com,AlarmId: 13179 - PressureMat is Activated,info
+2014-12-22 16:26:31,6507668513@vzwpix.com,AlarmId: 13179 - PressureMat is Activated,info
+2014-12-22 16:26:43,6507668513@vzwpix.com,AlarmId: 13179 - PressureMat is Activated,info
+2014-12-22 16:26:48,6507668513@vzwpix.com,AlarmId: 13179 - PressureMat is Activated,info
+2014-12-22 16:29:42,6507668513@vzwpix.com,AlarmId: 13183 - PressureMat is Activated,info
+2014-12-22 16:29:43,6507668513@vzwpix.com,AlarmId: 13183 - PressureMat is Activated,info
+2014-12-22 16:29:46,6507668513@vzwpix.com,AlarmId: 13183 - PressureMat is Activated,info
+2014-12-22 16:29:54,6507668513@vzwpix.com,AlarmId: 13183 - PressureMat is Activated,info
+2014-12-22 16:30:05,6507668513@vzwpix.com,AlarmId: 13183 - PressureMat is Activated,info
+2014-12-22 17:46:20,6507668513@vzwpix.com,AlarmId: 13187 - PressureMat is Activated,info
+2014-12-22 17:46:22,6507668513@vzwpix.com,AlarmId: 13187 - PressureMat is Activated,info
+2014-12-22 17:46:31,6507668513@vzwpix.com,AlarmId: 13187 - PressureMat is Activated,info
+2014-12-22 18:09:06,6507668513@vzwpix.com,AlarmId: 13190 - PressureMat is Activated,info
+2014-12-22 18:09:18,6507668513@vzwpix.com,AlarmId: 13190 - PressureMat is Activated,info
+2014-12-22 18:09:36,6507668513@vzwpix.com,AlarmId: 13192 - PressureMat is Activated,info
+2014-12-22 18:09:53,6507668513@vzwpix.com,AlarmId: 13192 - PressureMat is Activated,info
+2014-12-22 19:09:39,6507668513@vtext.com,AlarmId: 13194 - Temp Simulation Sensor (33.2 °C) >= 30.0,info
+2014-12-23 11:24:20,6507668513@vzwpix.com,AlarmId: 13195 - PressureMat is Activated,info
+2014-12-23 11:24:32,6507668513@vzwpix.com,AlarmId: 13195 - PressureMat is Activated,info
+2014-12-23 19:30:44,6507668513@vzwpix.com,AlarmId: 13197 - PressureMat is Activated,info
+2014-12-23 19:30:55,6507668513@vzwpix.com,AlarmId: 13197 - PressureMat is Activated,info
+2014-12-23 19:58:23,6507668513@vzwpix.com,AlarmId: 13199 - PressureMat is Activated,info
+2014-12-23 19:58:35,6507668513@vzwpix.com,AlarmId: 13199 - PressureMat is Activated,info
+2014-12-26 09:34:57,6507668513@vtext.com,AlarmId: 13201 - Temp Simulation Sensor (30.6 °C) >= 30.0,info
+2014-12-26 19:14:12,6507668513@vzwpix.com,AlarmId: 13202 - PressureMat is Activated,info
+2014-12-26 19:14:23,6507668513@vzwpix.com,AlarmId: 13202 - PressureMat is Activated,info
+2014-12-26 19:14:34,6507668513@vzwpix.com,AlarmId: 13204 - PressureMat is Activated,info
+2014-12-26 19:14:46,6507668513@vzwpix.com,AlarmId: 13204 - PressureMat is Activated,info
+2014-12-26 19:47:06,6507668513@vzwpix.com,AlarmId: 13206 - PressureMat is Activated,info
+2014-12-26 19:47:10,6507668513@vzwpix.com,AlarmId: 13206 - PressureMat is Activated,info
+2014-12-26 19:47:18,6507668513@vzwpix.com,AlarmId: 13206 - PressureMat is Activated,info
+2014-12-29 12:37:59,6507668513@vtext.com,AlarmId: 13209 - Temp Simulation Sensor (32.3 °C) >= 30.0,info
+2014-12-29 12:38:15,6507668513@vzwpix.com,AlarmId: 13210 - PressureMat is Activated,info
+2014-12-29 12:38:27,6507668513@vzwpix.com,AlarmId: 13210 - PressureMat is Activated,info
+2014-12-29 15:59:31,6507668513@vzwpix.com,AlarmId: 13212 - PressureMat is Activated,info
+2014-12-29 15:59:44,6507668513@vzwpix.com,AlarmId: 13212 - PressureMat is Activated,info
+2014-12-29 15:59:54,6507668513@vzwpix.com,AlarmId: 13212 - PressureMat is Activated,info
+2014-12-29 16:00:05,6507668513@vzwpix.com,AlarmId: 13212 - PressureMat is Activated,info
+2014-12-29 16:00:16,6507668513@vzwpix.com,AlarmId: 13212 - PressureMat is Activated,info
+2014-12-29 16:10:48,6507668513@vzwpix.com,AlarmId: 13214 - PressureMat is Activated,info
+2014-12-29 16:11:00,6507668513@vzwpix.com,AlarmId: 13214 - PressureMat is Activated,info
+2015-01-02 07:53:14,6507668513@vtext.com,AlarmId: 13216 - Temp Simulation Sensor (45.6 °C) >= 30.0,info
+2015-01-02 10:02:37,6507668513@vzwpix.com,AlarmId: 13217 - PressureMat is Activated,info
+2015-01-02 10:02:48,6507668513@vzwpix.com,AlarmId: 13217 - PressureMat is Activated,info
+2015-01-02 10:04:08,6507668513@vzwpix.com,AlarmId: 13219 - PressureMat is Activated,info
+2015-01-02 10:04:20,6507668513@vzwpix.com,AlarmId: 13219 - PressureMat is Activated,info
+2015-01-02 10:05:00,6507668513@vzwpix.com,AlarmId: 13221 - PressureMat is Activated,info
+2015-01-02 10:05:11,6507668513@vzwpix.com,AlarmId: 13221 - PressureMat is Activated,info
+2015-01-02 10:05:15,6507668513@vzwpix.com,AlarmId: 13223 - PressureMat is Activated,info
+2015-01-02 10:05:16,6507668513@vzwpix.com,AlarmId: 13223 - PressureMat is Activated,info
+2015-01-02 10:05:27,6507668513@vzwpix.com,AlarmId: 13223 - PressureMat is Activated,info
+2015-01-02 10:19:31,6507668513@vzwpix.com,AlarmId: 13226 - PressureMat is Activated,info
+2015-01-02 10:19:31,5105436271@mms.att.net,AlarmId: 13226 - PressureMat is Activated,info
+2015-01-02 10:19:43,6507668513@vzwpix.com,AlarmId: 13226 - PressureMat is Activated,info
+2015-01-02 10:19:43,5105436271@mms.att.net,AlarmId: 13226 - PressureMat is Activated,info
+2015-01-02 10:42:21,6507668513@vtext.com,AlarmId: 13228 - Temp Simulation Sensor (30.4 °C) >= 30.0,info
+2015-01-02 10:43:18,6507668513@vtext.com,AlarmId: 13229 - Temp Simulation Sensor (36.0 °C) >= 30.0,info
+2015-01-02 10:45:07,6507668513@vzwpix.com,AlarmId: 13230 - PressureMat is Activated,info
+2015-01-02 10:45:07,5105436271@mms.att.net,AlarmId: 13230 - PressureMat is Activated,info
+2015-01-02 10:45:19,6507668513@vzwpix.com,AlarmId: 13230 - PressureMat is Activated,info
+2015-01-02 10:45:19,5105436271@mms.att.net,AlarmId: 13230 - PressureMat is Activated,info
+2015-01-02 11:11:56,6507668513@vtext.com,AlarmId: 13232 - Temp Simulation Sensor (36.7 °C) >= 30.0,info
+2015-01-02 11:14:21,6507668513@vzwpix.com,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:21,5105436271@mms.att.net,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:27,6507668513@vzwpix.com,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:27,5105436271@mms.att.net,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:34,6507668513@vzwpix.com,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:34,5105436271@mms.att.net,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:45,6507668513@vzwpix.com,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 11:14:45,5105436271@mms.att.net,AlarmId: 13233 - PressureMat is Activated,info
+2015-01-02 16:05:48,6507668513@vtext.com,AlarmId: 13236 - Temp Simulation Sensor (32.8 °C) >= 30.0,info
+2015-01-02 16:09:21,6507668513@vzwpix.com,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:21,5105436271@mms.att.net,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:28,6507668513@vzwpix.com,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:28,5105436271@mms.att.net,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:33,6507668513@vzwpix.com,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:33,5105436271@mms.att.net,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:45,6507668513@vzwpix.com,AlarmId: 13240 - PressureMat is Activated,info
+2015-01-02 16:09:49,6507668513@vzwpix.com,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:50,5105436271@mms.att.net,AlarmId: 13237 - PressureMat is Activated,info
+2015-01-02 16:09:50,5105436271@mms.att.net,AlarmId: 13240 - PressureMat is Activated,info
+2015-01-02 16:09:53,6507668513@vzwpix.com,AlarmId: 13242 - PressureMat is Activated,info
+2015-01-02 16:09:53,5105436271@mms.att.net,AlarmId: 13242 - PressureMat is Activated,info
+2015-01-02 16:09:56,6507668513@vzwpix.com,AlarmId: 13240 - PressureMat is Activated,info
+2015-01-02 16:09:56,5105436271@mms.att.net,AlarmId: 13240 - PressureMat is Activated,info
+2015-01-02 16:10:07,6507668513@vzwpix.com,AlarmId: 13242 - PressureMat is Activated,info
+2015-01-02 16:10:12,5105436271@mms.att.net,AlarmId: 13242 - PressureMat is Activated,info
+2015-01-02 16:10:17,6507668513@vzwpix.com,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:10:17,5105436271@mms.att.net,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:10:28,6507668513@vzwpix.com,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:10:28,5105436271@mms.att.net,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:10:45,6507668513@vzwpix.com,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:10:51,5105436271@mms.att.net,AlarmId: 13244 - PressureMat is Activated,info
+2015-01-02 16:11:36,6507668513@vzwpix.com,AlarmId: 13246 - PressureMat is Activated,info
+2015-01-02 16:11:36,5105436271@mms.att.net,AlarmId: 13246 - PressureMat is Activated,info
+2015-01-02 16:11:43,6507668513@vzwpix.com,AlarmId: 13246 - PressureMat is Activated,info
+2015-01-02 16:11:43,5105436271@mms.att.net,AlarmId: 13246 - PressureMat is Activated,info
+2015-01-02 17:47:25,6507668513@vzwpix.com,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:25,5105436271@mms.att.net,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:37,6507668513@vzwpix.com,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:37,5105436271@mms.att.net,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:48,6507668513@vzwpix.com,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:49,5105436271@mms.att.net,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:47:58,6507668513@vzwpix.com,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:47:58,5105436271@mms.att.net,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:48:00,6507668513@vzwpix.com,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:48:00,5105436271@mms.att.net,AlarmId: 13248 - PressureMat is Activated,info
+2015-01-02 17:48:04,6507668513@vzwpix.com,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:48:04,5105436271@mms.att.net,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:48:07,6507668513@vzwpix.com,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:07,5105436271@mms.att.net,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:11,6507668513@vzwpix.com,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:48:12,5105436271@mms.att.net,AlarmId: 13250 - PressureMat is Activated,info
+2015-01-02 17:48:22,6507668513@vzwpix.com,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:28,5105436271@mms.att.net,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:31,6507668513@vzwpix.com,AlarmId: 13255 - PressureMat is Activated,info
+2015-01-02 17:48:32,5105436271@mms.att.net,AlarmId: 13255 - PressureMat is Activated,info
+2015-01-02 17:48:34,6507668513@vzwpix.com,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:34,5105436271@mms.att.net,AlarmId: 13253 - PressureMat is Activated,info
+2015-01-02 17:48:41,6507668513@vzwpix.com,AlarmId: 13257 - PressureMat is Activated,info
+2015-01-02 17:48:42,5105436271@mms.att.net,AlarmId: 13257 - PressureMat is Activated,info
+2015-01-02 17:48:44,6507668513@vzwpix.com,AlarmId: 13255 - PressureMat is Activated,info
+2015-01-02 17:48:45,5105436271@mms.att.net,AlarmId: 13255 - PressureMat is Activated,info
+2015-01-02 17:48:56,6507668513@vzwpix.com,AlarmId: 13257 - PressureMat is Activated,info
+2015-01-02 17:48:56,5105436271@mms.att.net,AlarmId: 13257 - PressureMat is Activated,info
+2015-01-02 19:03:14,6507668513@vzwpix.com,AlarmId: 13259 - PressureMat is Activated,info
+2015-01-02 19:03:14,5105436271@mms.att.net,AlarmId: 13259 - PressureMat is Activated,info
+2015-01-02 19:03:26,6507668513@vzwpix.com,AlarmId: 13259 - PressureMat is Activated,info
+2015-01-02 19:03:26,5105436271@mms.att.net,AlarmId: 13259 - PressureMat is Activated,info
+2015-01-05 21:21:15,6507668513@vzwpix.com,AlarmId: 13261 - PressureMat is Activated,info
+2015-01-05 21:21:15,5105436271@mms.att.net,AlarmId: 13261 - PressureMat is Activated,info
+2015-01-05 21:21:27,6507668513@vzwpix.com,AlarmId: 13261 - PressureMat is Activated,info
+2015-01-05 21:21:27,5105436271@mms.att.net,AlarmId: 13261 - PressureMat is Activated,info
+2015-01-06 19:37:30,6507668513@vzwpix.com,AlarmId: 13263 - PressureMat is Activated,info
+2015-01-06 19:37:30,5105436271@mms.att.net,AlarmId: 13263 - PressureMat is Activated,info
+2015-01-06 19:37:42,6507668513@vzwpix.com,AlarmId: 13263 - PressureMat is Activated,info
+2015-01-06 19:37:42,5105436271@mms.att.net,AlarmId: 13263 - PressureMat is Activated,info
+2015-01-07 11:18:46,6507668513@vzwpix.com,AlarmId: 13266 - PressureMat is Activated,info
+2015-01-07 11:18:46,5105436271@mms.att.net,AlarmId: 13266 - PressureMat is Activated,info
+2015-01-07 11:19:01,6507668513@vzwpix.com,AlarmId: 13266 - PressureMat is Activated,info
+2015-01-07 11:19:01,5105436271@mms.att.net,AlarmId: 13266 - PressureMat is Activated,info
+2015-01-07 11:19:16,6507668513@vtext.com,AlarmId: 13268 - Temp Simulation Sensor (35.0 °C) >= 30.0,info
+2015-01-07 19:38:52,6507668513@vzwpix.com,AlarmId: 13269 - PressureMat is Activated,info
+2015-01-07 19:38:52,5105436271@mms.att.net,AlarmId: 13269 - PressureMat is Activated,info
+2015-01-07 19:38:56,6507668513@vzwpix.com,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-07 19:38:56,5105436271@mms.att.net,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-07 19:39:08,6507668513@vzwpix.com,AlarmId: 13269 - PressureMat is Activated,info
+2015-01-07 19:39:08,5105436271@mms.att.net,AlarmId: 13269 - PressureMat is Activated,info
+2015-01-07 19:39:23,6507668513@vzwpix.com,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-07 19:39:23,5105436271@mms.att.net,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-07 19:39:27,6507668513@vzwpix.com,AlarmId: 13271 - Long range motion sensor is Activated,info
+2015-01-07 19:39:27,5105436271@mms.att.net,AlarmId: 13271 - Long range motion sensor is Activated,info
+2015-01-07 19:39:43,6507668513@vzwpix.com,AlarmId: 13271 - Long range motion sensor is Activated,info
+2015-01-07 19:39:43,5105436271@mms.att.net,AlarmId: 13271 - Long range motion sensor is Activated,info
+2015-01-07 20:16:10,6507668513@vzwpix.com,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-07 20:16:10,5105436271@mms.att.net,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-07 20:16:26,6507668513@vzwpix.com,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-07 20:16:27,5105436271@mms.att.net,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-07 20:16:40,6507668513@vzwpix.com,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-07 20:16:41,5105436271@mms.att.net,AlarmId: 13272 - Long range motion sensor is Activated,info
+2015-01-08 10:35:39,6507668513@vzwpix.com,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-08 10:35:39,5105436271@mms.att.net,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-08 10:35:55,6507668513@vzwpix.com,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-08 10:35:55,5105436271@mms.att.net,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-08 10:45:29,6507668513@vtext.com,AlarmId: 13276 - Temp Simulation Sensor (33.3 °C) >= 30.0,info
+2015-01-08 18:03:57,6507668513@vzwpix.com,AlarmId: 13277 - Long range motion sensor is Activated,info
+2015-01-08 18:03:57,5105436271@mms.att.net,AlarmId: 13277 - Long range motion sensor is Activated,info
+2015-01-08 18:04:12,6507668513@vzwpix.com,AlarmId: 13277 - Long range motion sensor is Activated,info
+2015-01-08 18:04:12,5105436271@mms.att.net,AlarmId: 13277 - Long range motion sensor is Activated,info
+2015-01-08 18:04:38,6507668513@vzwpix.com,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:04:38,5105436271@mms.att.net,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:04:54,6507668513@vzwpix.com,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:04:54,5105436271@mms.att.net,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:05:08,6507668513@vzwpix.com,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:05:08,5105436271@mms.att.net,AlarmId: 13278 - Long range motion sensor is Activated,info
+2015-01-08 18:05:59,6507668513@vzwpix.com,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 18:05:59,5105436271@mms.att.net,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 18:06:13,6507668513@vzwpix.com,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 18:06:13,5105436271@mms.att.net,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 18:06:28,6507668513@vzwpix.com,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 18:06:28,5105436271@mms.att.net,AlarmId: 13279 - Long range motion sensor is Activated,info
+2015-01-08 19:29:56,6507668513@vzwpix.com,AlarmId: 13280 - Long range motion sensor is Activated,info
+2015-01-08 19:29:56,5105436271@mms.att.net,AlarmId: 13280 - Long range motion sensor is Activated,info
+2015-01-08 19:30:11,6507668513@vzwpix.com,AlarmId: 13280 - Long range motion sensor is Activated,info
+2015-01-08 19:30:11,5105436271@mms.att.net,AlarmId: 13280 - Long range motion sensor is Activated,info
+2015-01-09 19:33:37,6507668513@vzwpix.com,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 19:33:37,5105436271@mms.att.net,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 19:33:39,6507668513@vzwpix.com,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-09 19:33:39,5105436271@mms.att.net,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-09 19:33:52,6507668513@vzwpix.com,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 19:33:52,5105436271@mms.att.net,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 19:34:07,6507668513@vzwpix.com,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 19:34:07,5105436271@mms.att.net,AlarmId: 13281 - Long range motion sensor is Activated,info
+2015-01-09 20:07:09,6507668513@vzwpix.com,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-09 20:07:09,5105436271@mms.att.net,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-09 20:07:09,6507668513@vzwpix.com,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-09 20:07:10,5105436271@mms.att.net,AlarmId: 13274 - PressureMat is Activated,info
+2015-01-09 20:07:25,6507668513@vzwpix.com,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-09 20:07:25,5105436271@mms.att.net,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-09 20:07:45,6507668513@vzwpix.com,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-09 20:07:45,5105436271@mms.att.net,AlarmId: 13283 - Long range motion sensor is Activated,info
+2015-01-10 10:22:53,6507668513@vzwpix.com,AlarmId: 13285 - PressureMat is Activated,info
+2015-01-10 10:22:53,5105436271@mms.att.net,AlarmId: 13285 - PressureMat is Activated,info
+2015-01-10 10:23:09,6507668513@vzwpix.com,AlarmId: 13285 - PressureMat is Activated,info
+2015-01-10 10:23:10,5105436271@mms.att.net,AlarmId: 13285 - PressureMat is Activated,info
+2015-01-10 10:52:51,6507668513@vtext.com,AlarmId: 13287 - Temp Simulation Sensor (33.4 °C) >= 30.0,info
+2015-01-10 14:51:10,6507668513@vzwpix.com,AlarmId: 13288 - PressureMat is Activated,info
+2015-01-10 14:51:10,5105436271@mms.att.net,AlarmId: 13288 - PressureMat is Activated,info
+2015-01-10 14:51:26,6507668513@vzwpix.com,AlarmId: 13288 - PressureMat is Activated,info
+2015-01-10 14:51:26,5105436271@mms.att.net,AlarmId: 13288 - PressureMat is Activated,info
+2015-01-12 18:01:07,6507668513@vzwpix.com,AlarmId: 13291 - Long range motion sensor is Activated,info
+2015-01-12 18:01:07,5105436271@mms.att.net,AlarmId: 13291 - Long range motion sensor is Activated,info
+2015-01-12 18:01:22,6507668513@vzwpix.com,AlarmId: 13291 - Long range motion sensor is Activated,info
+2015-01-12 18:01:22,5105436271@mms.att.net,AlarmId: 13291 - Long range motion sensor is Activated,info
+2015-01-12 18:01:38,6507668513@vzwpix.com,AlarmId: 13292 - Long range motion sensor is Activated,info
+2015-01-12 18:01:38,5105436271@mms.att.net,AlarmId: 13292 - Long range motion sensor is Activated,info
+2015-01-12 18:01:58,6507668513@vzwpix.com,AlarmId: 13292 - Long range motion sensor is Activated,info
+2015-01-12 18:01:58,5105436271@mms.att.net,AlarmId: 13292 - Long range motion sensor is Activated,info
+2015-01-12 18:04:14,6507668513@vzwpix.com,AlarmId: 13293 - Long range motion sensor is Activated,info
+2015-01-12 18:04:19,5105436271@mms.att.net,AlarmId: 13293 - Long range motion sensor is Activated,info
+2015-01-12 18:04:28,6507668513@vzwpix.com,AlarmId: 13293 - Long range motion sensor is Activated,info
+2015-01-12 18:04:28,5105436271@mms.att.net,AlarmId: 13293 - Long range motion sensor is Activated,info
+2015-01-12 18:04:44,6507668513@vzwpix.com,AlarmId: 13294 - Long range motion sensor is Activated,info
+2015-01-12 18:04:44,5105436271@mms.att.net,AlarmId: 13294 - Long range motion sensor is Activated,info
+2015-01-12 18:05:00,6507668513@vzwpix.com,AlarmId: 13294 - Long range motion sensor is Activated,info
+2015-01-12 18:05:00,5105436271@mms.att.net,AlarmId: 13294 - Long range motion sensor is Activated,info
+2015-01-12 18:05:04,6507668513@vzwpix.com,AlarmId: 13295 - Long range motion sensor is Activated,info
+2015-01-12 18:05:05,5105436271@mms.att.net,AlarmId: 13295 - Long range motion sensor is Activated,info
+2015-01-12 18:05:20,6507668513@vzwpix.com,AlarmId: 13295 - Long range motion sensor is Activated,info
+2015-01-12 18:05:20,5105436271@mms.att.net,AlarmId: 13295 - Long range motion sensor is Activated,info
+2015-01-12 18:17:57,6507668513@vzwpix.com,AlarmId: 13296 - Long range motion sensor is Activated,info
+2015-01-12 18:17:57,5105436271@mms.att.net,AlarmId: 13296 - Long range motion sensor is Activated,info
+2015-01-12 18:18:12,6507668513@vzwpix.com,AlarmId: 13296 - Long range motion sensor is Activated,info
+2015-01-12 18:18:12,5105436271@mms.att.net,AlarmId: 13296 - Long range motion sensor is Activated,info
+2015-01-12 18:19:53,6507668513@vzwpix.com,AlarmId: 13297 - Long range motion sensor is Activated,info
+2015-01-12 18:20:08,6507668513@vzwpix.com,AlarmId: 13297 - Long range motion sensor is Activated,info
+2015-01-12 18:28:58,6507668513@vzwpix.com,AlarmId: 13298 - Long range motion sensor is Activated,info
+2015-01-12 18:29:13,6507668513@vzwpix.com,AlarmId: 13298 - Long range motion sensor is Activated,info
+2015-01-12 18:29:28,6507668513@vzwpix.com,AlarmId: 13298 - Long range motion sensor is Activated,info
+2015-01-12 18:29:44,6507668513@vzwpix.com,AlarmId: 13298 - Long range motion sensor is Activated,info
+2015-01-12 21:20:29,6507668513@vzwpix.com,AlarmId: 13299 - Long range motion sensor is Activated,info
+2015-01-12 21:20:45,6507668513@vzwpix.com,AlarmId: 13299 - Long range motion sensor is Activated,info
+2015-01-13 17:25:56,6507668513@vtext.com,AlarmId: 13300 - Temp Simulation Sensor (40.4 °C) >= 30.0,info
+2015-01-13 19:37:30,6507668513@vzwpix.com,AlarmId: 13301 - Long range motion sensor is Activated,info
+2015-01-13 19:37:46,6507668513@vzwpix.com,AlarmId: 13301 - Long range motion sensor is Activated,info
+2015-01-13 19:38:01,6507668513@vzwpix.com,AlarmId: 13301 - Long range motion sensor is Activated,info
+2015-01-13 19:38:03,6507668513@vzwpix.com,AlarmId: 13302 - Long range motion sensor is Activated,info
+2015-01-13 19:38:19,6507668513@vzwpix.com,AlarmId: 13302 - Long range motion sensor is Activated,info
+2015-01-13 20:06:51,6507668513@vzwpix.com,AlarmId: 13303 - Long range motion sensor is Activated,info
+2015-01-13 20:07:06,6507668513@vzwpix.com,AlarmId: 13303 - Long range motion sensor is Activated,info
+2015-01-13 20:07:21,6507668513@vzwpix.com,AlarmId: 13303 - Long range motion sensor is Activated,info
+2015-01-14 19:24:55,6507668513@vzwpix.com,AlarmId: 13304 - Long range motion sensor is Activated,info
+2015-01-14 19:25:12,6507668513@vzwpix.com,AlarmId: 13304 - Long range motion sensor is Activated,info
+2015-01-14 19:25:26,6507668513@vzwpix.com,AlarmId: 13304 - Long range motion sensor is Activated,info
+2015-01-15 09:49:07,6507668513@vtext.com,AlarmId: 13305 - Temp Simulation Sensor (31.2 °C) >= 30.0,info
+2015-01-15 10:14:58,6507668513@vzwpix.com,AlarmId: 13306 - PressureMat is Activated,info
+2015-01-15 10:15:13,6507668513@vzwpix.com,AlarmId: 13306 - PressureMat is Activated,info
+2015-01-15 18:00:01,6507668513@vzwpix.com,AlarmId: 13308 - Long range motion sensor is Activated,info
+2015-01-15 18:00:13,6507668513@vzwpix.com,AlarmId: 13309 - Long range motion sensor is Activated,info
+2015-01-15 18:00:17,6507668513@vzwpix.com,AlarmId: 13308 - Long range motion sensor is Activated,info
+2015-01-15 18:00:32,6507668513@vzwpix.com,AlarmId: 13309 - Long range motion sensor is Activated,info
+2015-01-15 18:01:04,6507668513@vzwpix.com,AlarmId: 13310 - Long range motion sensor is Activated,info
+2015-01-15 18:01:20,6507668513@vzwpix.com,AlarmId: 13310 - Long range motion sensor is Activated,info
+2015-01-15 18:01:33,6507668513@vzwpix.com,AlarmId: 13311 - Long range motion sensor is Activated,info
+2015-01-15 18:01:35,6507668513@vzwpix.com,AlarmId: 13310 - Long range motion sensor is Activated,info
+2015-01-15 18:01:50,6507668513@vzwpix.com,AlarmId: 13311 - Long range motion sensor is Activated,info
+2015-01-15 18:02:05,6507668513@vzwpix.com,AlarmId: 13311 - Long range motion sensor is Activated,info
+2015-01-15 18:02:20,6507668513@vzwpix.com,AlarmId: 13311 - Long range motion sensor is Activated,info
+2015-01-15 18:02:35,6507668513@vzwpix.com,AlarmId: 13312 - Long range motion sensor is Activated,info
+2015-01-15 18:02:51,6507668513@vzwpix.com,AlarmId: 13312 - Long range motion sensor is Activated,info
+2015-01-15 18:03:06,6507668513@vzwpix.com,AlarmId: 13312 - Long range motion sensor is Activated,info
+2015-01-15 18:03:32,6507668513@vzwpix.com,AlarmId: 13313 - Long range motion sensor is Activated,info
+2015-01-15 18:03:48,6507668513@vzwpix.com,AlarmId: 13313 - Long range motion sensor is Activated,info
+2015-01-15 18:03:59,6507668513@vzwpix.com,AlarmId: 13314 - Long range motion sensor is Activated,info
+2015-01-15 18:04:16,6507668513@vzwpix.com,AlarmId: 13315 - Long range motion sensor is Activated,info
+2015-01-15 18:04:19,6507668513@vzwpix.com,AlarmId: 13314 - Long range motion sensor is Activated,info
+2015-01-15 18:04:32,6507668513@vzwpix.com,AlarmId: 13315 - Long range motion sensor is Activated,info
+2015-01-15 18:04:46,6507668513@vzwpix.com,AlarmId: 13316 - Long range motion sensor is Activated,info
+2015-01-15 18:04:47,6507668513@vzwpix.com,AlarmId: 13315 - Long range motion sensor is Activated,info
+2015-01-15 18:05:01,6507668513@vzwpix.com,AlarmId: 13316 - Long range motion sensor is Activated,info
+2015-01-15 18:05:09,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:05:25,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:05:41,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:05:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:06:16,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:06:25,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:06:41,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:06:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:07:12,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:07:26,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:07:46,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:07:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:08:11,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:08:26,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:08:41,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:08:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:09:11,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:09:26,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:09:46,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:09:53,6507668513@vzwpix.com,AlarmId: 13306 - PressureMat is Activated,info
+2015-01-15 18:09:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:10:10,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:10:30,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:10:41,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:10:41,6507668513@vzwpix.com,AlarmId: 13306 - PressureMat is Activated,info
+2015-01-15 18:10:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:11:11,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:11:25,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:11:41,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:11:52,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:11:56,6507668513@vzwpix.com,AlarmId: 13317 - Long range motion sensor is Activated,info
+2015-01-15 18:12:11,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:12:26,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:12:41,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:12:56,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:13:11,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 18:13:26,6507668513@vzwpix.com,AlarmId: 13320 - Long range motion sensor is Activated,info
+2015-01-15 19:35:09,6507668513@vzwpix.com,AlarmId: 13321 - Long range motion sensor is Activated,info
+2015-01-15 19:35:24,6507668513@vzwpix.com,AlarmId: 13321 - Long range motion sensor is Activated,info
+2015-01-15 20:10:39,6507668513@vzwpix.com,AlarmId: 13322 - Long range motion sensor is Activated,info
+2015-01-15 20:10:55,6507668513@vzwpix.com,AlarmId: 13322 - Long range motion sensor is Activated,info
+2015-01-15 20:11:10,6507668513@vzwpix.com,AlarmId: 13322 - Long range motion sensor is Activated,info
+2015-01-16 09:45:20,6507668513@vzwpix.com,AlarmId: 13323 - Door Beam is Activated,info
+2015-01-16 09:45:33,6507668513@vzwpix.com,AlarmId: 13324 - Door Beam is Activated,info
+2015-01-16 09:45:48,6507668513@vzwpix.com,AlarmId: 13323 - Door Beam is Activated,info
+2015-01-16 09:45:50,6507668513@vzwpix.com,AlarmId: 13324 - Door Beam is Activated,info
+2015-01-16 09:52:00,6507668513@vzwpix.com,AlarmId: 13325 - Door Beam is Activated,info
+2015-01-16 09:52:18,6507668513@vzwpix.com,AlarmId: 13325 - Door Beam is Activated,info
+2015-01-16 11:52:05,6507668513@vzwpix.com,AlarmId: 13326 - Panic Button is Activated,info
+2015-01-16 11:52:05,6507668513@vzwpix.com,AlarmId: 22385 - Panic Button is Activated,info
+2015-01-16 11:52:16,6507668513@vzwpix.com,AlarmId: 22385 - Panic Button is Activated,info
+2015-01-16 11:52:16,6507668513@vzwpix.com,AlarmId: 13327 - Panic Button is Activated,info
+2015-01-16 11:52:21,6507668513@vzwpix.com,AlarmId: 13326 - Panic Button is Activated,info
+2015-01-16 11:52:36,6507668513@vzwpix.com,AlarmId: 13327 - Panic Button is Activated,info
+2015-01-16 12:03:02,6507668513@vtext.com,AlarmId: 13328 - Temp Simulation Sensor (36.9 °C) >= 30.0,info
+2015-01-16 12:04:06,6507668513@vzwpix.com,AlarmId: 13329 - Panic Button is Activated,info
+2015-01-16 12:04:06,5109171526@pm.sprint.com,AlarmId: 13329 - Panic Button is Activated,info
+2015-01-16 12:04:21,6507668513@vzwpix.com,AlarmId: 13329 - Panic Button is Activated,info
+2015-01-16 12:04:21,5109171526@pm.sprint.com,AlarmId: 13329 - Panic Button is Activated,info
+2015-01-16 12:04:36,6507668513@vzwpix.com,AlarmId: 13330 - Panic Button is Activated,info
+2015-01-16 12:04:42,5109171526@pm.sprint.com,AlarmId: 13330 - Panic Button is Activated,info
+2015-01-16 12:04:58,6507668513@vzwpix.com,AlarmId: 13330 - Panic Button is Activated,info
+2015-01-16 12:04:58,5109171526@pm.sprint.com,AlarmId: 13330 - Panic Button is Activated,info
+2015-01-16 12:10:36,6507668513@vzwpix.com,AlarmId: 13331 - Door Beam is Activated,info
+2015-01-16 12:10:36,5109171526@pm.sprint.com,AlarmId: 13331 - Door Beam is Activated,info
+2015-01-16 12:10:48,6507668513@vzwpix.com,AlarmId: 13331 - Door Beam is Activated,info
+2015-01-16 12:10:49,5109171526@pm.sprint.com,AlarmId: 13331 - Door Beam is Activated,info
+2015-01-16 12:11:35,6507668513@vzwpix.com,AlarmId: 13332 - Panic Button is Activated,info
+2015-01-16 12:11:36,5109171526@pm.sprint.com,AlarmId: 13332 - Panic Button is Activated,info
+2015-01-16 12:11:52,6507668513@vzwpix.com,AlarmId: 13332 - Panic Button is Activated,info
+2015-01-16 12:11:57,5109171526@pm.sprint.com,AlarmId: 13332 - Panic Button is Activated,info
+2015-01-16 12:15:44,6507668513@vzwpix.com,AlarmId: 13333 - Door Beam is Activated,info
+2015-01-16 12:15:44,5109171526@pm.sprint.com,AlarmId: 13333 - Door Beam is Activated,info
+2015-01-16 12:15:52,6507668513@vzwpix.com,AlarmId: 13333 - Door Beam is Activated,info
+2015-01-16 12:15:53,5109171526@pm.sprint.com,AlarmId: 13333 - Door Beam is Activated,info
+2015-01-16 12:36:46,6507668513@vzwpix.com,AlarmId: 13334 - Door Beam is Activated,info
+2015-01-16 12:36:46,5109171526@pm.sprint.com,AlarmId: 13334 - Door Beam is Activated,info
+2015-01-16 12:36:59,6507668513@vzwpix.com,AlarmId: 13334 - Door Beam is Activated,info
+2015-01-16 12:36:59,5109171526@pm.sprint.com,AlarmId: 13334 - Door Beam is Activated,info
+2015-01-16 12:45:40,6507668513@vzwpix.com,AlarmId: 13335 - Panic Button is Activated,info
+2015-01-16 12:45:41,5109171526@pm.sprint.com,AlarmId: 13335 - Panic Button is Activated,info
+2015-01-16 12:45:56,6507668513@vzwpix.com,AlarmId: 13335 - Panic Button is Activated,info
+2015-01-16 12:45:57,5109171526@pm.sprint.com,AlarmId: 13335 - Panic Button is Activated,info
+2015-01-16 19:26:38,6507668513@vzwpix.com,AlarmId: 13336 - Long range motion sensor is Activated,info
+2015-01-16 19:26:38,5109171526@pm.sprint.com,AlarmId: 13336 - Long range motion sensor is Activated,info
+2015-01-16 19:26:54,6507668513@vzwpix.com,AlarmId: 13336 - Long range motion sensor is Activated,info
+2015-01-16 19:26:54,5109171526@pm.sprint.com,AlarmId: 13336 - Long range motion sensor is Activated,info
+2015-01-16 19:50:18,6507668513@vzwpix.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-16 19:50:18,5109171526@pm.sprint.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-16 19:50:34,6507668513@vzwpix.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-16 19:50:34,5109171526@pm.sprint.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-16 19:50:54,6507668513@vzwpix.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-16 19:50:54,5109171526@pm.sprint.com,AlarmId: 13337 - Long range motion sensor is Activated,info
+2015-01-19 18:53:45,6507668513@vzwpix.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-19 18:53:45,5109171526@pm.sprint.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-19 18:53:47,6507668513@vzwpix.com,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-19 18:53:47,5109171526@pm.sprint.com,AlarmId: 22385 - Long range motion sensor is Activated,info
+2015-01-19 18:53:52,6507668513@vzwpix.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-19 18:53:52,5109171526@pm.sprint.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-19 18:54:00,6507668513@vzwpix.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-19 18:54:01,5109171526@pm.sprint.com,AlarmId: 13338 - PressureMat is Activated,info
+2015-01-20 06:06:50,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:06:50,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:06:56,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:06:56,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:11,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:11,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:25,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:25,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:40,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:40,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:55,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:07:55,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:05,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:05,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:10,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:10,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:29,6507668513@vzwpix.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:08:29,5109171526@pm.sprint.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:08:40,6507668513@vzwpix.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:40,5109171526@pm.sprint.com,AlarmId: 13341 - Long range motion sensor is Activated,info
+2015-01-20 06:08:44,6507668513@vzwpix.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:08:44,5109171526@pm.sprint.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:08:59,6507668513@vzwpix.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:08:59,5109171526@pm.sprint.com,AlarmId: 13342 - Long range motion sensor is Activated,info
+2015-01-20 06:09:12,6507668513@vzwpix.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:09:12,5109171526@pm.sprint.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:09:27,6507668513@vzwpix.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:09:27,5109171526@pm.sprint.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:09:42,6507668513@vzwpix.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:09:42,5109171526@pm.sprint.com,AlarmId: 13343 - Long range motion sensor is Activated,info
+2015-01-20 06:11:46,6507668513@vzwpix.com,AlarmId: 13344 - Long range motion sensor is Activated,info
+2015-01-20 06:11:46,5109171526@pm.sprint.com,AlarmId: 13344 - Long range motion sensor is Activated,info
+2015-01-20 06:11:56,6507668513@vzwpix.com,AlarmId: 13344 - Long range motion sensor is Activated,info
+2015-01-20 06:12:06,5109171526@pm.sprint.com,AlarmId: 13344 - Long range motion sensor is Activated,info
+2015-01-20 06:12:11,6507668513@vzwpix.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:11,5109171526@pm.sprint.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:21,6507668513@vzwpix.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:21,5109171526@pm.sprint.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:35,6507668513@vzwpix.com,AlarmId: 13346 - Long range motion sensor is Activated,info
+2015-01-20 06:12:35,5109171526@pm.sprint.com,AlarmId: 13346 - Long range motion sensor is Activated,info
+2015-01-20 06:12:36,6507668513@vzwpix.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:36,5109171526@pm.sprint.com,AlarmId: 13345 - Long range motion sensor is Activated,info
+2015-01-20 06:12:51,6507668513@vzwpix.com,AlarmId: 13346 - Long range motion sensor is Activated,info
+2015-01-20 06:12:51,5109171526@pm.sprint.com,AlarmId: 13346 - Long range motion sensor is Activated,info
+2015-01-20 06:14:24,6507668513@vzwpix.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 06:14:24,5109171526@pm.sprint.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 06:14:39,6507668513@vzwpix.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 06:14:39,5109171526@pm.sprint.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 06:14:54,6507668513@vzwpix.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 06:14:55,5109171526@pm.sprint.com,AlarmId: 13347 - Long range motion sensor is Activated,info
+2015-01-20 07:06:51,6507668513@vzwpix.com,AlarmId: 13348 - Panic Button is Activated,info
+2015-01-20 07:06:52,5109171526@pm.sprint.com,AlarmId: 13348 - Panic Button is Activated,info
+2015-01-20 07:07:12,6507668513@vzwpix.com,AlarmId: 13348 - Panic Button is Activated,info
+2015-01-20 07:07:12,5109171526@pm.sprint.com,AlarmId: 13348 - Panic Button is Activated,info
+2015-01-20 07:19:31,6507668513@vzwpix.com,AlarmId: 13349 - Open Space Beam is Activated,info
+2015-01-20 07:19:36,5109171526@pm.sprint.com,AlarmId: 13349 - Open Space Beam is Activated,info
+2015-01-20 07:19:43,6507668513@vzwpix.com,AlarmId: 13349 - Open Space Beam is Activated,info
+2015-01-20 07:19:43,5109171526@pm.sprint.com,AlarmId: 13349 - Open Space Beam is Activated,info
+2015-01-20 07:22:37,6507668513@vzwpix.com,AlarmId: 13350 - Open Space Beam is Activated,info
+2015-01-20 07:22:45,6507668513@vzwpix.com,AlarmId: 13350 - Open Space Beam is Activated,info
+2015-01-20 07:22:45,5109171526@pm.sprint.com,AlarmId: 13350 - Open Space Beam is Activated,info
+2015-01-20 07:22:47,5109171526@pm.sprint.com,AlarmId: 13350 - Open Space Beam is Activated,info
+2015-01-20 07:33:52,6507668513@vzwpix.com,AlarmId: 13351 - Open Space Beam is Activated,info
+2015-01-20 07:33:52,5109171526@pm.sprint.com,AlarmId: 13351 - Open Space Beam is Activated,info
+2015-01-20 07:34:05,6507668513@vzwpix.com,AlarmId: 13351 - Open Space Beam is Activated,info
+2015-01-20 07:34:10,5109171526@pm.sprint.com,AlarmId: 13351 - Open Space Beam is Activated,info
+2015-01-20 07:39:16,6507668513@vzwpix.com,AlarmId: 13352 - Open Space Beam is Activated,info
+2015-01-20 07:39:16,5109171526@pm.sprint.com,AlarmId: 13352 - Open Space Beam is Activated,info
+2015-01-20 07:39:23,6507668513@vzwpix.com,AlarmId: 13352 - Open Space Beam is Activated,info
+2015-01-20 07:39:23,5109171526@pm.sprint.com,AlarmId: 13352 - Open Space Beam is Activated,info
+2015-01-20 07:40:45,6507668513@vzwpix.com,AlarmId: 13353 - Open Space Beam is Activated,info
+2015-01-20 07:40:45,5109171526@pm.sprint.com,AlarmId: 13353 - Open Space Beam is Activated,info
+2015-01-20 07:40:58,6507668513@vzwpix.com,AlarmId: 13353 - Open Space Beam is Activated,info
+2015-01-20 07:40:58,5109171526@pm.sprint.com,AlarmId: 13353 - Open Space Beam is Activated,info
+2015-01-20 07:41:40,6507668513@vzwpix.com,AlarmId: 13354 - Open Space Beam is Activated,info
+2015-01-20 07:41:40,5109171526@pm.sprint.com,AlarmId: 13354 - Open Space Beam is Activated,info
+2015-01-20 07:41:52,6507668513@vzwpix.com,AlarmId: 13354 - Open Space Beam is Activated,info
+2015-01-20 07:41:52,5109171526@pm.sprint.com,AlarmId: 13354 - Open Space Beam is Activated,info
+2015-01-20 08:03:49,6507668513@vzwpix.com,AlarmId: 13355 - Open Space Beam is Activated,info
+2015-01-20 08:03:49,5109171526@pm.sprint.com,AlarmId: 13355 - Open Space Beam is Activated,info
+2015-01-20 08:04:07,6507668513@vzwpix.com,AlarmId: 13355 - Open Space Beam is Activated,info
+2015-01-20 08:04:12,5109171526@pm.sprint.com,AlarmId: 13355 - Open Space Beam is Activated,info
+2015-01-20 08:20:14,6507668513@vzwpix.com,AlarmId: 13356 - Open Space Beam is Activated,info
+2015-01-20 08:20:14,5109171526@pm.sprint.com,AlarmId: 13356 - Open Space Beam is Activated,info
+2015-01-20 08:20:26,6507668513@vzwpix.com,AlarmId: 13356 - Open Space Beam is Activated,info
+2015-01-20 08:20:26,5109171526@pm.sprint.com,AlarmId: 13356 - Open Space Beam is Activated,info
+2015-01-20 08:23:15,6507668513@vzwpix.com,AlarmId: 13357 - Open Space Beam is Activated,info
+2015-01-20 08:23:15,5109171526@pm.sprint.com,AlarmId: 13357 - Open Space Beam is Activated,info
+2015-01-20 08:23:32,6507668513@vzwpix.com,AlarmId: 13357 - Open Space Beam is Activated,info
+2015-01-20 08:23:37,5109171526@pm.sprint.com,AlarmId: 13357 - Open Space Beam is Activated,info
+2015-01-20 08:33:53,6507668513@vzwpix.com,AlarmId: 13358 - Open Space Beam is Activated,info
+2015-01-20 08:33:53,5109171526@pm.sprint.com,AlarmId: 13358 - Open Space Beam is Activated,info
+2015-01-20 08:34:01,6507668513@vzwpix.com,AlarmId: 13358 - Open Space Beam is Activated,info
+2015-01-20 08:34:06,5109171526@pm.sprint.com,AlarmId: 13358 - Open Space Beam is Activated,info
+2015-01-20 08:42:46,6507668513@vzwpix.com,AlarmId: 13359 - Open Space Beam is Activated,info
+2015-01-20 08:42:51,5109171526@pm.sprint.com,AlarmId: 13359 - Open Space Beam is Activated,info
+2015-01-20 08:42:58,6507668513@vzwpix.com,AlarmId: 13359 - Open Space Beam is Activated,info
+2015-01-20 08:42:58,5109171526@pm.sprint.com,AlarmId: 13359 - Open Space Beam is Activated,info
+2015-01-20 09:36:27,6507668513@vzwpix.com,AlarmId: 13360 - Open Space Beam is Activated,info
+2015-01-20 09:36:27,5109171526@pm.sprint.com,AlarmId: 13360 - Open Space Beam is Activated,info
+2015-01-20 09:36:39,6507668513@vzwpix.com,AlarmId: 13360 - Open Space Beam is Activated,info
+2015-01-20 09:36:39,5109171526@pm.sprint.com,AlarmId: 13360 - Open Space Beam is Activated,info
+2015-01-20 10:47:16,6507668513@vzwpix.com,AlarmId: 13361 - Open Space Beam is Activated,info
+2015-01-20 10:47:16,5109171526@pm.sprint.com,AlarmId: 13361 - Open Space Beam is Activated,info
+2015-01-20 10:47:27,6507668513@vzwpix.com,AlarmId: 13361 - Open Space Beam is Activated,info
+2015-01-20 10:47:27,5109171526@pm.sprint.com,AlarmId: 13361 - Open Space Beam is Activated,info
+2015-01-20 10:47:40,6507668513@vzwpix.com,AlarmId: 13362 - Open Space Beam is Activated,info
+2015-01-20 10:47:40,5109171526@pm.sprint.com,AlarmId: 13362 - Open Space Beam is Activated,info
+2015-01-20 10:47:53,6507668513@vzwpix.com,AlarmId: 13362 - Open Space Beam is Activated,info
+2015-01-20 10:47:54,5109171526@pm.sprint.com,AlarmId: 13362 - Open Space Beam is Activated,info
+2015-01-20 11:14:31,6507668513@vzwpix.com,AlarmId: 13363 - Open Space Beam is Activated,info
+2015-01-20 11:14:32,5109171526@pm.sprint.com,AlarmId: 13363 - Open Space Beam is Activated,info
+2015-01-20 11:14:43,6507668513@vzwpix.com,AlarmId: 13363 - Open Space Beam is Activated,info
+2015-01-20 11:14:43,5109171526@pm.sprint.com,AlarmId: 13363 - Open Space Beam is Activated,info
+2015-01-20 11:14:48,6507668513@vzwpix.com,AlarmId: 13364 - Open Space Beam is Activated,info
+2015-01-20 11:14:49,5109171526@pm.sprint.com,AlarmId: 13364 - Open Space Beam is Activated,info
+2015-01-20 11:15:00,6507668513@vzwpix.com,AlarmId: 13364 - Open Space Beam is Activated,info
+2015-01-20 11:15:00,5109171526@pm.sprint.com,AlarmId: 13364 - Open Space Beam is Activated,info
+2015-01-22 10:32:58,6507668513@vzwpix.com,AlarmId: 13365 - Open Space Beam is Activated,info
+2015-01-22 10:32:59,5109171526@pm.sprint.com,AlarmId: 13365 - Open Space Beam is Activated,info
+2015-01-22 10:33:11,6507668513@vzwpix.com,AlarmId: 13365 - Open Space Beam is Activated,info
+2015-01-22 10:33:11,5109171526@pm.sprint.com,AlarmId: 13365 - Open Space Beam is Activated,info
+2015-01-22 19:36:11,6507668513@vzwpix.com,AlarmId: 13366 - PressureMat is Activated,info
+2015-01-22 19:36:11,5109171526@pm.sprint.com,AlarmId: 13366 - PressureMat is Activated,info
+2015-01-22 19:36:28,6507668513@vzwpix.com,AlarmId: 13366 - PressureMat is Activated,info
+2015-01-22 19:36:28,5109171526@pm.sprint.com,AlarmId: 13366 - PressureMat is Activated,info
+2015-01-23 09:08:24,6507668513@vzwpix.com,AlarmId: 13368 - Open Space Beam is Activated,info
+2015-01-23 09:08:24,5109171526@pm.sprint.com,AlarmId: 13368 - Open Space Beam is Activated,info
+2015-01-23 09:08:32,6507668513@vzwpix.com,AlarmId: 13368 - Open Space Beam is Activated,info
+2015-01-23 09:08:32,5109171526@pm.sprint.com,AlarmId: 13368 - Open Space Beam is Activated,info
+2015-01-23 09:09:03,6507668513@vzwpix.com,AlarmId: 13369 - Open Space Beam is Activated,info
+2015-01-23 09:09:03,5109171526@pm.sprint.com,AlarmId: 13369 - Open Space Beam is Activated,info
+2015-01-23 09:09:11,6507668513@vzwpix.com,AlarmId: 13369 - Open Space Beam is Activated,info
+2015-01-23 09:09:11,5109171526@pm.sprint.com,AlarmId: 13369 - Open Space Beam is Activated,info
+2015-01-23 10:47:32,6507668513@vzwpix.com,AlarmId: 13370 - Open Space Beam is Activated,info
+2015-01-23 10:47:32,5109171526@pm.sprint.com,AlarmId: 13370 - Open Space Beam is Activated,info
+2015-01-23 10:47:45,6507668513@vzwpix.com,AlarmId: 13370 - Open Space Beam is Activated,info
+2015-01-23 10:47:45,5109171526@pm.sprint.com,AlarmId: 13370 - Open Space Beam is Activated,info
+2015-01-23 11:32:33,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:32:38,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:32:48,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:32:49,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:02,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:04,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:05,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:08,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:10,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:11,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:14,6507668513@vzwpix.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:14,5109171526@pm.sprint.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:19,6507668513@vzwpix.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:20,5109171526@pm.sprint.com,AlarmId: 13371 - PressureMat is Activated,info
+2015-01-23 11:33:26,6507668513@vzwpix.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:27,5109171526@pm.sprint.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:32,6507668513@vzwpix.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:33,5109171526@pm.sprint.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:34,6507668513@vzwpix.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:35,5109171526@pm.sprint.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:49,6507668513@vzwpix.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:33:50,5109171526@pm.sprint.com,AlarmId: 13375 - PressureMat is Activated,info
+2015-01-23 11:34:03,6507668513@vzwpix.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:04,6507668513@vzwpix.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:05,5109171526@pm.sprint.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:14,5109171526@pm.sprint.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:15,6507668513@vzwpix.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:18,6507668513@vzwpix.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:19,5109171526@pm.sprint.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:34:26,5109171526@pm.sprint.com,AlarmId: 13379 - PressureMat is Activated,info
+2015-01-23 11:43:24,6507668513@vzwpix.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:25,6507668513@vzwpix.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:26,6507668513@vzwpix.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:27,5109171526@pm.sprint.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:30,5109171526@pm.sprint.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:31,5109171526@pm.sprint.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:34,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:43:35,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:43:35,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:43:36,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:43:40,6507668513@vzwpix.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:43:40,5109171526@pm.sprint.com,AlarmId: 13382 - PressureMat is Activated,info
+2015-01-23 11:44:00,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:01,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:10,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:25,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:40,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:55,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:44:55,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:15,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:15,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:36,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:45:40,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:00,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:01,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:15,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:25,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:46:40,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:00,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:00,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:10,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:26,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:40,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:55,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:47:55,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:15,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:30,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:45,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:55,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:48:55,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:10,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:30,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:30,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:50,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:49:55,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:01,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:01,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:21,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:25,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:40,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:41,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:55,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:50:56,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:51:10,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:51:10,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:51:25,6507668513@vzwpix.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:51:30,5109171526@pm.sprint.com,AlarmId: 13386 - PressureMat is Activated,info
+2015-01-23 11:52:05,6507668513@vzwpix.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:05,5109171526@pm.sprint.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:18,6507668513@vzwpix.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:18,5109171526@pm.sprint.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:21,6507668513@vzwpix.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:27,5109171526@pm.sprint.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:40,6507668513@vzwpix.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:46,5109171526@pm.sprint.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:46,6507668513@vzwpix.com,AlarmId: 13392 - PressureMat is Activated,info
+2015-01-23 11:52:46,5109171526@pm.sprint.com,AlarmId: 13392 - PressureMat is Activated,info
+2015-01-23 11:52:51,6507668513@vzwpix.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:52:57,5109171526@pm.sprint.com,AlarmId: 13389 - PressureMat is Activated,info
+2015-01-23 11:53:06,6507668513@vzwpix.com,AlarmId: 13392 - PressureMat is Activated,info
+2015-01-23 11:53:06,5109171526@pm.sprint.com,AlarmId: 13392 - PressureMat is Activated,info
+2015-01-23 11:57:25,6507668513@vzwpix.com,AlarmId: 13394 - PressureMat is Activated,info
+2015-01-23 11:57:26,5109171526@pm.sprint.com,AlarmId: 13394 - PressureMat is Activated,info
+2015-01-23 11:57:40,6507668513@vzwpix.com,AlarmId: 13394 - PressureMat is Activated,info
+2015-01-23 11:57:41,5109171526@pm.sprint.com,AlarmId: 13394 - PressureMat is Activated,info
+2015-01-23 12:11:50,6507668513@vzwpix.com,AlarmId: 13396 - PressureMat is Activated,info
+2015-01-23 12:12:00,5109171526@pm.sprint.com,AlarmId: 13396 - PressureMat is Activated,info
+2015-01-23 12:12:05,6507668513@vzwpix.com,AlarmId: 13396 - PressureMat is Activated,info
+2015-01-23 12:12:15,5109171526@pm.sprint.com,AlarmId: 13396 - PressureMat is Activated,info
+2015-01-23 12:26:51,6507668513@vtext.com,AlarmId: 13398 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2015-01-23 17:11:33,6507668513@vzwpix.com,AlarmId: 13405 - Open Space Beam is Activated,info
+2015-01-23 17:11:33,5109171526@pm.sprint.com,AlarmId: 13405 - Open Space Beam is Activated,info
+2015-01-23 17:11:46,6507668513@vzwpix.com,AlarmId: 13405 - Open Space Beam is Activated,info
+2015-01-23 17:11:46,5109171526@pm.sprint.com,AlarmId: 13405 - Open Space Beam is Activated,info
+2015-01-23 17:11:48,6507668513@vtext.com,AlarmId: 13406 - Temp Simulation Sensor (32.8 °C) >= 30.0,info
+2015-01-29 10:09:55,6507668513@vzwpix.com,AlarmId: 13414 - Open Space Beam is Activated,info
+2015-01-29 10:10:00,5109171526@pm.sprint.com,AlarmId: 13414 - Open Space Beam is Activated,info
+2015-01-29 10:10:06,6507668513@vzwpix.com,AlarmId: 13414 - Open Space Beam is Activated,info
+2015-01-29 10:10:06,5109171526@pm.sprint.com,AlarmId: 13414 - Open Space Beam is Activated,info
+2015-01-29 10:10:41,6507668513@vtext.com,AlarmId: 13415 - Temp Simulation Sensor (33.1 °C) >= 30.0,info
+2015-01-30 09:47:18,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:47:18,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:47:31,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:47:31,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:47:49,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:47:55,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:11,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:12,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:28,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:29,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:40,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:48:41,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:14,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:15,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:17,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:18,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:42,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:42,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:49,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:49:49,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:07,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:24,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:24,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:27,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:51,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:51,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:58,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:50:58,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:15,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:15,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:36,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:37,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:49,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:51:49,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:10,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:11,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:23,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:23,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:39,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:44,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:52:57,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:02,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:12,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:13,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:47,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:49,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:50,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:53:57,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:14,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:14,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:36,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:36,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:38,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:54:38,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:05,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:12,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:12,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:20,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:38,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:39,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:55:50,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:01,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:19,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:21,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:24,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:27,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:41,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:46,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:58,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:56:58,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:15,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:15,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:32,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:33,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:49,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:57:49,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:06,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:17,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:35,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:36,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:37,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:38,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:52,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:58:52,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:20,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:20,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:36,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:37,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:48,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 09:59:54,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:00,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:06,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:22,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:23,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:39,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:45,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:51,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:00:52,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:09,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:09,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:31,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:36,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:48,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:01:48,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:10,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:10,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:17,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:27,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:44,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:50,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:56,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:02:56,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:08,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:24,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:28,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:29,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:51,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:03:52,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:09,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:10,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:27,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:33,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:35,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:46,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:53,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:04:54,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:10,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:10,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:43,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:44,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:50,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:05:50,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:08,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:08,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:30,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:30,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:37,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:06:43,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:00,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:05,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:18,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:28,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:41,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:41,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:48,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:07:49,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:11,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:17,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:24,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:24,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:40,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:46,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:58,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:08:59,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:09:16,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:09:17,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:09:33,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:09:33,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:09:50,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:06,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:08,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:09,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:26,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:32,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:43,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:10:49,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:11:01,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:11:01,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:11:18,6507668513@vzwpix.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-01-30 10:11:19,5109171526@pm.sprint.com,AlarmId: 13419 - Open Space Beam is Activated,info
+2015-02-04 14:56:35,6507668513@vtext.com,AlarmId: 6 - Temp Simulation Sensor (37.3 °C) >= 30.0,info
+2015-02-04 18:15:13,6507668513@vtext.com,AlarmId: 17 - Temp Simulation Sensor (31.6 °C) >= 30.0,info
+2015-03-05 12:29:18,6507668513@vtext.com,AlarmId: 100 - Temp Simulation Sensor (32.7 °C) >= 30.0,info
+2015-03-12 08:56:05,6507668513@vtext.com,AlarmId: 109 - Temp Simulation Sensor (45.8 °C) >= 30.0,info
+2015-03-25 15:10:51,6507668513@vtext.com,AlarmId: 117 - Temp Simulation Sensor (35.1 °C) >= 30.0,info
+2015-04-21 13:41:42,6507668513@vtext.com,AlarmId: 131 - Temp Simulation Sensor (39.0 °C) >= 30.0,info
+2015-04-21 20:29:31,6507668513@vzwpix.com,AlarmId: 137 - Panic Button is Activated,info
+2015-04-21 20:29:44,6507668513@vzwpix.com,AlarmId: 137 - Panic Button is Activated,info
+2015-04-21 20:29:48,6507668513@vzwpix.com,AlarmId: 137 - Panic Button is Activated,info
+2015-04-23 13:07:33,6507668513@vtext.com,AlarmId: 143 - Temp Simulation Sensor (32.4 °C) >= 30.0,info
+2015-04-30 09:01:26,6507668513@vtext.com,AlarmId: 160 - Temp Simulation Sensor (36.8 °C) >= 30.0,info
+2015-04-30 11:50:28,6507668513@vtext.com,AlarmId: 161 - Temp Simulation Sensor (60.9 F) >= 30.0,info
+2015-04-30 11:53:41,6507668513@vtext.com,AlarmId: 162 - Temp Simulation Sensor (33.2 F) >= 30.0,info
+2015-06-04 13:03:29,6507668513@vtext.com,AlarmId: 6814 - Trans Oil Temp (33.1 F) >= 30.0,info
+2015-06-09 10:54:24,6507668513@vtext.com,AlarmId: 6820 - Trans Oil Temp (33.1 F) >= 30.0,info
+2015-06-09 11:49:15,6507668513@vtext.com,AlarmId: 6821 - Trans Oil Temp (30.2 F) >= 30.0,info

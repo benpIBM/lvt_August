@@ -1,0 +1,4 @@
+{
+  "error": "bad_request",
+  "reason": "`reduce` qs param must be `true` or `false`"
+}

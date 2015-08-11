@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<script>
+var request = require('request');
+</script>
+<body>
+
+<h1>Cloudant HTML Sample</h1>
+
+<p id="demo">Connect to Cloudant</p>
+
+<button type="button"
+onclick="connectToCloudant()">
+Load Data!</button>
+
+<script>
+function connectToCloudant() {
+  	var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", 'https://bsp:demoPass@bsp.cloudant.com', false );
+    xmlHttp.send(null);
+    console.log(xmlHttp.responseText);
+    document.write("<p>"+xmlHttp.responseText+"</p>");
+}
+</script>
+
+</body>
+</html>

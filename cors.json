@@ -1,0 +1,9 @@
+{
+    "enable_cors": true,
+    "allow_credentials": true,
+    "origins": [
+         "http://lvt.mybluemix.net",
+         "*",
+         "http://localhost"
+     ]
+}

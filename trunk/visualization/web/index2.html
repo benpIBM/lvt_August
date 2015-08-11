@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>dc.js - Dimensional Charting Javascript Library</title>
+
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+    <link rel="icon" type="image/x-icon" href="logo.png"/>
+
+
+    <style>
+        #monthly-volume-chart g.y {
+            display: none;
+        }
+        #logo {
+            margin-right: 2em;
+            margin-top: 2em;
+            height: 220px;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div>
+            <img id="logo" src="logo.png" style="float:left" width=400 height=200></img>
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p> 
+
+            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+
+            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
+            <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then</p>
+        </div>
+    </div>
+    <div id="water-treatment-landing-donut"></div>
+    <div id="water-treatment-landing-stacked-chart"></div>
+</div>
+<div class="container">
+    <div>
+        <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then</p>
+    </div>
+    <div id="water-treatment-device-chart"></div>
+    <div class="row">
+        <div id="gain-loss-chart">
+            <strong>Water Landing Page</strong>
+            <a class="reset" href="javascript:gainOrLossChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+            <div class="clearfix"></div>
+        </div>
+        <div id="monthly-move-chart">
+            <strong>All Sensor Sensor Data over time</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+            </p>
+
+            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div id="day-of-week-chart">
+            <strong>Water Machine Operator Graph A</strong>
+            <a class="reset" href="javascript:dayOfWeekChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+
+        <div id="quarter-chart">
+            <strong>Water Machine Operator Graph B</strong>
+            <a class="reset" href="javascript:quarterChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="monthly-move-chart">
+            <strong>All Machine Operator Sensor Data over time</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div id="fluctuation-chart">
+            <strong>Water Plant Level Operator Graph A</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:fluctuationChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+            <div class="clearfix"></div>
+        </div>
+        <div id="monthly-move-chart">
+            <strong>Water Plant Level Operator Graph B</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"
+               style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+        <div class="row">
+            <div id="monthly-move-chart">
+                <strong>All Plant Level Sensor measurements over time</strong>
+                <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+                <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"style="display: none;">reset</a>
+                <div class="clearfix"></div>
+            </div>
+        </row>
+    </div>
+    <div class="row">
+        <div>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+
+            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div id="monthly-move-chart">
+            <strong>Water Plant Enterprise Stakeholder Graph A</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"
+               style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+        <div id="day-of-week-chart">
+            <strong>Water Plant Enterprise Stakeholder Graph B</strong>
+            <a class="reset" href="javascript:dayOfWeekChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="monthly-move-chart">
+            <strong>All Plant Level Sensor measurements over time</strong>
+            <span class="reset" style="display: none;">range: <span class="filter"></span></span>
+            <a class="reset" href="javascript:moveChart.filterAll();volumeChart.filterAll();dc.redrawAll();"style="display: none;">reset</a>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            <div class="dc-data-count">
+                <span class="filter-count"></span> selected out of <span class="total-count"></span> records | <a
+                    href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+            </div>
+        </div>
+        <table class="table table-hover dc-data-table">
+        </table>
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+<script type="text/javascript" src="js/d3.js"></script>
+<script type="text/javascript" src="js/crossfilter.js"></script>
+<script type="text/javascript" src="js/dc.js"></script>
+<script type="text/javascript" src="js/colorbrewer.js"></script>
+
+
+<script type="text/javascript" src="stock.js"></script>
+
+
+</body>
+</html>

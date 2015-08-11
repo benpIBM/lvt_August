@@ -1,0 +1,89 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/Users/Ford/local/bin/npm', 'install', 'couchdbkit' ]
+2 info using npm@2.10.1
+3 info using node@v0.10.31
+4 verbose install initial load of /Users/Ford/Downloads/package.json
+5 verbose installManyTop reading scoped package data from /Users/Ford/Downloads/node_modules/dc/package.json
+6 verbose installManyTop reading scoped package data from /Users/Ford/Downloads/node_modules/node/package.json
+7 verbose installManyTop reading scoped package data from /Users/Ford/Downloads/node_modules/request/package.json
+8 info package.json node@0.0.0 No description
+9 info package.json node@0.0.0 No repository field.
+10 info package.json node@0.0.0 No README data
+11 info package.json node@0.0.0 No license field.
+12 verbose readDependencies loading dependencies from /Users/Ford/Downloads/package.json
+13 silly cache add args [ 'couchdbkit', null ]
+14 verbose cache add spec couchdbkit
+15 silly cache add parsed spec { raw: 'couchdbkit',
+15 silly cache add   scope: null,
+15 silly cache add   name: 'couchdbkit',
+15 silly cache add   rawSpec: '',
+15 silly cache add   spec: '*',
+15 silly cache add   type: 'range' }
+16 silly addNamed couchdbkit@*
+17 verbose addNamed "*" is a valid semver range for couchdbkit
+18 silly addNameRange { name: 'couchdbkit', range: '*', hasData: false }
+19 silly mapToRegistry name couchdbkit
+20 silly mapToRegistry using default registry
+21 silly mapToRegistry registry https://registry.npmjs.org/
+22 silly mapToRegistry uri https://registry.npmjs.org/couchdbkit
+23 verbose addNameRange registry:https://registry.npmjs.org/couchdbkit not in flight; fetching
+24 verbose request uri https://registry.npmjs.org/couchdbkit
+25 verbose request no auth needed
+26 info attempt registry request try #1 at 12:36:21
+27 verbose request id d61350bfc6278e60
+28 http request GET https://registry.npmjs.org/couchdbkit
+29 http 404 https://registry.npmjs.org/couchdbkit
+30 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+30 verbose headers   'content-type': 'application/json',
+30 verbose headers   'cache-control': 'max-age=0',
+30 verbose headers   'content-length': '51',
+30 verbose headers   'accept-ranges': 'bytes',
+30 verbose headers   date: 'Sun, 02 Aug 2015 19:36:21 GMT',
+30 verbose headers   via: '1.1 varnish',
+30 verbose headers   age: '0',
+30 verbose headers   connection: 'keep-alive',
+30 verbose headers   'x-served-by': 'cache-lax1421-LAX',
+30 verbose headers   'x-cache': 'MISS',
+30 verbose headers   'x-cache-hits': '0',
+30 verbose headers   'x-timer': 'S1438544181.192520,VS0,VE188' }
+31 silly get cb [ 404,
+31 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+31 silly get     'content-type': 'application/json',
+31 silly get     'cache-control': 'max-age=0',
+31 silly get     'content-length': '51',
+31 silly get     'accept-ranges': 'bytes',
+31 silly get     date: 'Sun, 02 Aug 2015 19:36:21 GMT',
+31 silly get     via: '1.1 varnish',
+31 silly get     age: '0',
+31 silly get     connection: 'keep-alive',
+31 silly get     'x-served-by': 'cache-lax1421-LAX',
+31 silly get     'x-cache': 'MISS',
+31 silly get     'x-cache-hits': '0',
+31 silly get     'x-timer': 'S1438544181.192520,VS0,VE188' } ]
+32 verbose stack Error: 404 Not Found: couchdbkit
+32 verbose stack     at CachingRegistryClient.<anonymous> (/Users/Ford/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:245:14)
+32 verbose stack     at Request._callback (/Users/Ford/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:170:14)
+32 verbose stack     at Request.self.callback (/Users/Ford/local/lib/node_modules/npm/node_modules/request/request.js:368:22)
+32 verbose stack     at Request.emit (events.js:98:17)
+32 verbose stack     at Request.<anonymous> (/Users/Ford/local/lib/node_modules/npm/node_modules/request/request.js:1219:14)
+32 verbose stack     at Request.emit (events.js:117:20)
+32 verbose stack     at IncomingMessage.<anonymous> (/Users/Ford/local/lib/node_modules/npm/node_modules/request/request.js:1167:12)
+32 verbose stack     at IncomingMessage.emit (events.js:117:20)
+32 verbose stack     at _stream_readable.js:943:16
+32 verbose stack     at process._tickCallback (node.js:419:13)
+33 verbose statusCode 404
+34 verbose pkgid couchdbkit
+35 verbose cwd /Users/Ford/Downloads/sc-code
+36 error Darwin 14.4.0
+37 error argv "node" "/Users/Ford/local/bin/npm" "install" "couchdbkit"
+38 error node v0.10.31
+39 error npm  v2.10.1
+40 error code E404
+41 error 404 Not Found: couchdbkit
+41 error 404
+41 error 404 'couchdbkit' is not in the npm registry.
+41 error 404 You should bug the author to publish it (or use the name yourself!)
+41 error 404
+41 error 404 Note that you can also install from a
+41 error 404 tarball, folder, http url, or git url.
+42 verbose exit [ 1, true ]

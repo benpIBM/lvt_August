@@ -1,0 +1,656 @@
+operation,service,amount,year,month,day,hour
+Instruction,Davis,550034,2015,05,08,1
+Research,Davis,419303,2015,05,08,1
+Public Service,Davis,62772,2015,05,08,1
+Academic Support,Davis,134981,2015,05,08,1
+Student Services,Davis,67811,2015,05,08,1
+Institutional Support,Davis,86149,2015,05,08,1
+Operation and Maintenance of Plant,Davis,93894,2015,05,08,1
+Student Financial Aid,Davis,40933,2015,05,08,1
+Medical Centers,Davis,920305,2015,05,08,1
+Auxiliary Enterprises,Davis,86381,2015,05,08,1
+Depreciation and Amortization,Davis,167299,2015,05,08,1
+Interest,Davis,56659,2015,05,08,1
+Other,Davis,4645,2015,05,08,1
+Instruction,Davis,559618,2015,06,02,1
+Research,Davis,453416,2015,06,02,1
+Public Service,Davis,57391,2015,06,02,1
+Academic Support,Davis,142811,2015,06,02,1
+Student Services,Davis,60829,2015,06,02,1
+Institutional Support,Davis,90322,2015,06,02,1
+Operation and Maintenance of Plant,Davis,89859,2015,06,02,1
+Student Financial Aid,Davis,51203,2015,06,02,1
+Medical Centers,Davis,976359,2015,06,02,1
+Auxiliary Enterprises,Davis,89997,2015,06,02,1
+Depreciation and Amortization,Davis,174637,2015,06,02,1
+Interest,Davis,43324,2015,06,02,1
+Other,Davis,5052,2015,06,02,1
+Instruction,Davis,538363,2015,07,07,1
+Research,Davis,478476,2015,07,07,1
+Public Service,Davis,55176,2015,07,07,1
+Academic Support,Davis,142330,2015,07,07,1
+Student Services,Davis,62065,2015,07,07,1
+Institutional Support,Davis,83845,2015,07,07,1
+Operation and Maintenance of Plant,Davis,82213,2015,07,07,1
+Student Financial Aid,Davis,66845,2015,07,07,1
+Medical Centers,Davis,996321,2015,07,07,1
+Auxiliary Enterprises,Davis,81224,2015,07,07,1
+Depreciation and Amortization,Davis,182548,2015,07,07,1
+Interest,Davis,47932,2015,07,07,1
+Other,Davis,3901,2015,07,07,1
+Instruction,Davis,564234,2015,07,10,14
+Research,Davis,510754,2015,07,10,14
+Public Service,Davis,58466,2015,07,10,14
+Academic Support,Davis,147116,2015,07,10,14
+Student Services,Davis,83355,2015,07,10,14
+Institutional Support,Davis,87719,2015,07,10,14
+Operation and Maintenance of Plant,Davis,92802,2015,07,10,14
+Student Financial Aid,Davis,65576,2015,07,10,14
+Medical Centers,Davis,1104892,2015,07,10,14
+Auxiliary Enterprises,Davis,86455,2015,07,10,14
+Depreciation and Amortization,Davis,217380,2015,07,10,14
+Interest,Davis,58154,2015,07,10,14
+Other,Davis,8299,2015,07,10,14
+Instruction,Davis,602100,2015,07,09,14
+Research,Davis,508167,2015,07,09,14
+Public Service,Davis,63394,2015,07,09,14
+Academic Support,Davis,164275,2015,07,09,14
+Student Services,Davis,97706,2015,07,09,14
+Institutional Support,Davis,146708,2015,07,09,14
+Operation and Maintenance of Plant,Davis,94588,2015,07,09,14
+Student Financial Aid,Davis,55805,2015,07,09,14
+Medical Centers,Davis,1216812,2015,07,09,14
+Auxiliary Enterprises,Davis,95825,2015,07,09,14
+Depreciation and Amortization,Davis,222336,2015,07,09,14
+Interest,Davis,62054,2015,07,09,14
+Other,Davis,16612,2015,07,09,14
+Instruction,Irvine,414623,2015,05,08,1
+Research,Irvine,212254,2015,05,08,1
+Public Service,Irvine,11382,2015,05,08,1
+Academic Support,Irvine,93709,2015,05,08,1
+Student Services,Irvine,50553,2015,05,08,1
+Institutional Support,Irvine,46126,2015,05,08,1
+Operation and Maintenance of Plant,Irvine,38591,2015,05,08,1
+Student Financial Aid,Irvine,54934,2015,05,08,1
+Medical Centers,Irvine,430378,2015,05,08,1
+Auxiliary Enterprises,Irvine,73017,2015,05,08,1
+Depreciation and Amortization,Irvine,97021,2015,05,08,1
+Interest,Irvine,43971,2015,05,08,1
+Other,Irvine,5772,2015,05,08,1
+Instruction,Irvine,435904,2015,06,02,1
+Research,Irvine,224235,2015,06,02,1
+Public Service,Irvine,20183,2015,06,02,1
+Academic Support,Irvine,107206,2015,06,02,1
+Student Services,Irvine,57158,2015,06,02,1
+Institutional Support,Irvine,47907,2015,06,02,1
+Operation and Maintenance of Plant,Irvine,37315,2015,06,02,1
+Student Financial Aid,Irvine,64742,2015,06,02,1
+Medical Centers,Irvine,461763,2015,06,02,1
+Auxiliary Enterprises,Irvine,120983,2015,06,02,1
+Depreciation and Amortization,Irvine,109449,2015,06,02,1
+Interest,Irvine,45509,2015,06,02,1
+Other,Irvine,10541,2015,06,02,1
+Instruction,Irvine,446395,2015,07,07,1
+Research,Irvine,226178,2015,07,07,1
+Public Service,Irvine,11349,2015,07,07,1
+Academic Support,Irvine,125854,2015,07,07,1
+Student Services,Irvine,58543,2015,07,07,1
+Institutional Support,Irvine,44805,2015,07,07,1
+Operation and Maintenance of Plant,Irvine,38053,2015,07,07,1
+Student Financial Aid,Irvine,64346,2015,07,07,1
+Medical Centers,Irvine,498903,2015,07,07,1
+Auxiliary Enterprises,Irvine,116385,2015,07,07,1
+Depreciation and Amortization,Irvine,116691,2015,07,07,1
+Interest,Irvine,47257,2015,07,07,1
+Other,Irvine,6916,2015,07,07,1
+Instruction,Irvine,424940,2015,07,10,14
+Research,Irvine,224826,2015,07,10,14
+Public Service,Irvine,16794,2015,07,10,14
+Academic Support,Irvine,113537,2015,07,10,14
+Student Services,Irvine,64921,2015,07,10,14
+Institutional Support,Irvine,34528,2015,07,10,14
+Operation and Maintenance of Plant,Irvine,39169,2015,07,10,14
+Student Financial Aid,Irvine,70886,2015,07,10,14
+Medical Centers,Irvine,535388,2015,07,10,14
+Auxiliary Enterprises,Irvine,98596,2015,07,10,14
+Depreciation and Amortization,Irvine,138685,2015,07,10,14
+Interest,Irvine,69582,2015,07,10,14
+Other,Irvine,14480,2015,07,10,14
+Instruction,Irvine,469580,2015,07,09,14
+Research,Irvine,245966,2015,07,09,14
+Public Service,Irvine,19952,2015,07,09,14
+Academic Support,Irvine,158901,2015,07,09,14
+Student Services,Irvine,55727,2015,07,09,14
+Institutional Support,Irvine,62068,2015,07,09,14
+Operation and Maintenance of Plant,Irvine,37427,2015,07,09,14
+Student Financial Aid,Irvine,81341,2015,07,09,14
+Medical Centers,Irvine,636827,2015,07,09,14
+Auxiliary Enterprises,Irvine,123764,2015,07,09,14
+Depreciation and Amortization,Irvine,167027,2015,07,09,14
+Interest,Irvine,98739,2015,07,09,14
+Other,Irvine,30941,2015,07,09,14
+Instruction,Los Angeles,1060107,2015,05,08,1
+Research,Los Angeles,618860,2015,05,08,1
+Public Service,Los Angeles,77575,2015,05,08,1
+Academic Support,Los Angeles,316832,2015,05,08,1
+Student Services,Los Angeles,68462,2015,05,08,1
+Institutional Support,Los Angeles,133134,2015,05,08,1
+Operation and Maintenance of Plant,Los Angeles,89258,2015,05,08,1
+Student Financial Aid,Los Angeles,63108,2015,05,08,1
+Medical Centers,Los Angeles,1066665,2015,05,08,1
+Auxiliary Enterprises,Los Angeles,239984,2015,05,08,1
+Depreciation and Amortization,Los Angeles,183733,2015,05,08,1
+Interest,Los Angeles,108279,2015,05,08,1
+Other,Los Angeles,28148,2015,05,08,1
+Instruction,Los Angeles,1117863,2015,06,02,1
+Research,Los Angeles,635425,2015,06,02,1
+Public Service,Los Angeles,91685,2015,06,02,1
+Academic Support,Los Angeles,321369,2015,06,02,1
+Student Services,Los Angeles,70056,2015,06,02,1
+Institutional Support,Los Angeles,144443,2015,06,02,1
+Operation and Maintenance of Plant,Los Angeles,96821,2015,06,02,1
+Student Financial Aid,Los Angeles,71197,2015,06,02,1
+Medical Centers,Los Angeles,1224887,2015,06,02,1
+Auxiliary Enterprises,Los Angeles,243858,2015,06,02,1
+Depreciation and Amortization,Los Angeles,239280,2015,06,02,1
+Interest,Los Angeles,73692,2015,06,02,1
+Other,Los Angeles,38025,2015,06,02,1
+Instruction,Los Angeles,1143524,2015,07,07,1
+Research,Los Angeles,676315,2015,07,07,1
+Public Service,Los Angeles,96140,2015,07,07,1
+Academic Support,Los Angeles,319987,2015,07,07,1
+Student Services,Los Angeles,68428,2015,07,07,1
+Institutional Support,Los Angeles,138551,2015,07,07,1
+Operation and Maintenance of Plant,Los Angeles,85722,2015,07,07,1
+Student Financial Aid,Los Angeles,61864,2015,07,07,1
+Medical Centers,Los Angeles,1223432,2015,07,07,1
+Auxiliary Enterprises,Los Angeles,238457,2015,07,07,1
+Depreciation and Amortization,Los Angeles,237387,2015,07,07,1
+Interest,Los Angeles,94631,2015,07,07,1
+Other,Los Angeles,20936,2015,07,07,1
+Instruction,Los Angeles,1240219,2015,07,10,14
+Research,Los Angeles,702469,2015,07,10,14
+Public Service,Los Angeles,100161,2015,07,10,14
+Academic Support,Los Angeles,348284,2015,07,10,14
+Student Services,Los Angeles,68902,2015,07,10,14
+Institutional Support,Los Angeles,137720,2015,07,10,14
+Operation and Maintenance of Plant,Los Angeles,78931,2015,07,10,14
+Student Financial Aid,Los Angeles,59277,2015,07,10,14
+Medical Centers,Los Angeles,1284846,2015,07,10,14
+Auxiliary Enterprises,Los Angeles,252277,2015,07,10,14
+Depreciation and Amortization,Los Angeles,270561,2015,07,10,14
+Interest,Los Angeles,121207,2015,07,10,14
+Other,Los Angeles,41053,2015,07,10,14
+Instruction,Los Angeles,1388195,2015,07,09,14
+Research,Los Angeles,738806,2015,07,09,14
+Public Service,Los Angeles,99938,2015,07,09,14
+Academic Support,Los Angeles,427683,2015,07,09,14
+Student Services,Los Angeles,106104,2015,07,09,14
+Institutional Support,Los Angeles,153505,2015,07,09,14
+Operation and Maintenance of Plant,Los Angeles,77486,2015,07,09,14
+Student Financial Aid,Los Angeles,44224,2015,07,09,14
+Medical Centers,Los Angeles,1450865,2015,07,09,14
+Auxiliary Enterprises,Los Angeles,276478,2015,07,09,14
+Depreciation and Amortization,Los Angeles,293764,2015,07,09,14
+Interest,Los Angeles,115293,2015,07,09,14
+Other,Los Angeles,53225,2015,07,09,14
+Instruction,Merced,16626,2015,05,08,1
+Research,Merced,10204,2015,05,08,1
+Public Service,Merced,5587,2015,05,08,1
+Academic Support,Merced,9192,2015,05,08,1
+Student Services,Merced,6079,2015,05,08,1
+Institutional Support,Merced,22253,2015,05,08,1
+Operation and Maintenance of Plant,Merced,9923,2015,05,08,1
+Student Financial Aid,Merced,8931,2015,05,08,1
+Auxiliary Enterprises,Merced,5371,2015,05,08,1
+Depreciation and Amortization,Merced,15863,2015,05,08,1
+Interest,Merced,14779,2015,05,08,1
+Other,Merced,-40,2015,05,08,1
+Instruction,Merced,21271,2015,06,02,1
+Research,Merced,12891,2015,06,02,1
+Public Service,Merced,6247,2015,06,02,1
+Academic Support,Merced,10678,2015,06,02,1
+Student Services,Merced,7620,2015,06,02,1
+Institutional Support,Merced,25400,2015,06,02,1
+Operation and Maintenance of Plant,Merced,11559,2015,06,02,1
+Student Financial Aid,Merced,-1279,2015,06,02,1
+Auxiliary Enterprises,Merced,7262,2015,06,02,1
+Depreciation and Amortization,Merced,17830,2015,06,02,1
+Interest,Merced,13446,2015,06,02,1
+Other,Merced,19197,2015,06,02,1
+Instruction,Merced,23317,2015,07,07,1
+Research,Merced,14153,2015,07,07,1
+Public Service,Merced,5158,2015,07,07,1
+Academic Support,Merced,10570,2015,07,07,1
+Student Services,Merced,8173,2015,07,07,1
+Institutional Support,Merced,24842,2015,07,07,1
+Operation and Maintenance of Plant,Merced,10286,2015,07,07,1
+Student Financial Aid,Merced,7254,2015,07,07,1
+Auxiliary Enterprises,Merced,8535,2015,07,07,1
+Depreciation and Amortization,Merced,18008,2015,07,07,1
+Interest,Merced,15605,2015,07,07,1
+Other,Merced,993,2015,07,07,1
+Instruction,Merced,28389,2015,07,10,14
+Research,Merced,15048,2015,07,10,14
+Public Service,Merced,5001,2015,07,10,14
+Academic Support,Merced,12013,2015,07,10,14
+Student Services,Merced,9540,2015,07,10,14
+Institutional Support,Merced,27955,2015,07,10,14
+Operation and Maintenance of Plant,Merced,12863,2015,07,10,14
+Student Financial Aid,Merced,9784,2015,07,10,14
+Auxiliary Enterprises,Merced,11752,2015,07,10,14
+Depreciation and Amortization,Merced,19552,2015,07,10,14
+Interest,Merced,15741,2015,07,10,14
+Other,Merced,850,2015,07,10,14
+Instruction,Merced,33786,2015,07,09,14
+Research,Merced,15862,2015,07,09,14
+Public Service,Merced,3942,2015,07,09,14
+Academic Support,Merced,14686,2015,07,09,14
+Student Services,Merced,14220,2015,07,09,14
+Institutional Support,Merced,34435,2015,07,09,14
+Operation and Maintenance of Plant,Merced,14718,2015,07,09,14
+Student Financial Aid,Merced,9498,2015,07,09,14
+Auxiliary Enterprises,Merced,13617,2015,07,09,14
+Depreciation and Amortization,Merced,20865,2015,07,09,14
+Interest,Merced,17200,2015,07,09,14
+Other,Merced,6340,2015,07,09,14
+Instruction,Riverside,152035,2015,05,08,1
+Research,Riverside,95406,2015,05,08,1
+Public Service,Riverside,5106,2015,05,08,1
+Academic Support,Riverside,45310,2015,05,08,1
+Student Services,Riverside,42748,2015,05,08,1
+Institutional Support,Riverside,47358,2015,05,08,1
+Operation and Maintenance of Plant,Riverside,27173,2015,05,08,1
+Student Financial Aid,Riverside,34627,2015,05,08,1
+Auxiliary Enterprises,Riverside,52944,2015,05,08,1
+Depreciation and Amortization,Riverside,51662,2015,05,08,1
+Interest,Riverside,10592,2015,05,08,1
+Other,Riverside,8677,2015,05,08,1
+Instruction,Riverside,164933,2015,06,02,1
+Research,Riverside,95875,2015,06,02,1
+Public Service,Riverside,4230,2015,06,02,1
+Academic Support,Riverside,40556,2015,06,02,1
+Student Services,Riverside,41544,2015,06,02,1
+Institutional Support,Riverside,46797,2015,06,02,1
+Operation and Maintenance of Plant,Riverside,27795,2015,06,02,1
+Student Financial Aid,Riverside,39094,2015,06,02,1
+Auxiliary Enterprises,Riverside,50440,2015,06,02,1
+Depreciation and Amortization,Riverside,52013,2015,06,02,1
+Interest,Riverside,14293,2015,06,02,1
+Other,Riverside,2441,2015,06,02,1
+Instruction,Riverside,162180,2015,07,07,1
+Research,Riverside,96563,2015,07,07,1
+Public Service,Riverside,4765,2015,07,07,1
+Academic Support,Riverside,27088,2015,07,07,1
+Student Services,Riverside,41217,2015,07,07,1
+Institutional Support,Riverside,38977,2015,07,07,1
+Operation and Maintenance of Plant,Riverside,28277,2015,07,07,1
+Student Financial Aid,Riverside,47424,2015,07,07,1
+Auxiliary Enterprises,Riverside,53339,2015,07,07,1
+Depreciation and Amortization,Riverside,52904,2015,07,07,1
+Interest,Riverside,18577,2015,07,07,1
+Other,Riverside,2830,2015,07,07,1
+Instruction,Riverside,177458,2015,07,10,14
+Research,Riverside,97165,2015,07,10,14
+Public Service,Riverside,5983,2015,07,10,14
+Academic Support,Riverside,28788,2015,07,10,14
+Student Services,Riverside,45531,2015,07,10,14
+Institutional Support,Riverside,42583,2015,07,10,14
+Operation and Maintenance of Plant,Riverside,30147,2015,07,10,14
+Student Financial Aid,Riverside,58717,2015,07,10,14
+Auxiliary Enterprises,Riverside,56961,2015,07,10,14
+Depreciation and Amortization,Riverside,57125,2015,07,10,14
+Interest,Riverside,21291,2015,07,10,14
+Other,Riverside,5591,2015,07,10,14
+Instruction,Riverside,197792,2015,07,09,14
+Research,Riverside,99023,2015,07,09,14
+Public Service,Riverside,5959,2015,07,09,14
+Academic Support,Riverside,28559,2015,07,09,14
+Student Services,Riverside,56864,2015,07,09,14
+Institutional Support,Riverside,44403,2015,07,09,14
+Operation and Maintenance of Plant,Riverside,31734,2015,07,09,14
+Student Financial Aid,Riverside,51873,2015,07,09,14
+Auxiliary Enterprises,Riverside,61759,2015,07,09,14
+Depreciation and Amortization,Riverside,56804,2015,07,09,14
+Interest,Riverside,20356,2015,07,09,14
+Other,Riverside,10003,2015,07,09,14
+Instruction,San Diego,476581,2015,05,08,1
+Research,San Diego,557902,2015,05,08,1
+Public Service,San Diego,16463,2015,05,08,1
+Academic Support,San Diego,192810,2015,05,08,1
+Student Services,San Diego,57152,2015,05,08,1
+Institutional Support,San Diego,111505,2015,05,08,1
+Operation and Maintenance of Plant,San Diego,63445,2015,05,08,1
+Student Financial Aid,San Diego,55106,2015,05,08,1
+Medical Centers,San Diego,656326,2015,05,08,1
+Auxiliary Enterprises,San Diego,107773,2015,05,08,1
+Depreciation and Amortization,San Diego,168423,2015,05,08,1
+Interest,San Diego,40554,2015,05,08,1
+Other,San Diego,12627,2015,05,08,1
+Instruction,San Diego,474703,2015,06,02,1
+Research,San Diego,609965,2015,06,02,1
+Public Service,San Diego,16808,2015,06,02,1
+Academic Support,San Diego,190073,2015,06,02,1
+Student Services,San Diego,62338,2015,06,02,1
+Institutional Support,San Diego,121632,2015,06,02,1
+Operation and Maintenance of Plant,San Diego,69355,2015,06,02,1
+Student Financial Aid,San Diego,58932,2015,06,02,1
+Medical Centers,San Diego,692853,2015,06,02,1
+Auxiliary Enterprises,San Diego,110933,2015,06,02,1
+Depreciation and Amortization,San Diego,174200,2015,06,02,1
+Interest,San Diego,42850,2015,06,02,1
+Other,San Diego,7024,2015,06,02,1
+Instruction,San Diego,513800,2015,07,07,1
+Research,San Diego,665985,2015,07,07,1
+Public Service,San Diego,17482,2015,07,07,1
+Academic Support,San Diego,196305,2015,07,07,1
+Student Services,San Diego,66999,2015,07,07,1
+Institutional Support,San Diego,104407,2015,07,07,1
+Operation and Maintenance of Plant,San Diego,64688,2015,07,07,1
+Student Financial Aid,San Diego,94148,2015,07,07,1
+Medical Centers,San Diego,720920,2015,07,07,1
+Auxiliary Enterprises,San Diego,108026,2015,07,07,1
+Depreciation and Amortization,San Diego,188641,2015,07,07,1
+Interest,San Diego,60888,2015,07,07,1
+Other,San Diego,11308,2015,07,07,1
+Instruction,San Diego,561282,2015,07,10,14
+Research,San Diego,700292,2015,07,10,14
+Public Service,San Diego,20664,2015,07,10,14
+Academic Support,San Diego,236464,2015,07,10,14
+Student Services,San Diego,75855,2015,07,10,14
+Institutional Support,San Diego,85663,2015,07,10,14
+Operation and Maintenance of Plant,San Diego,62855,2015,07,10,14
+Student Financial Aid,San Diego,82651,2015,07,10,14
+Medical Centers,San Diego,793331,2015,07,10,14
+Auxiliary Enterprises,San Diego,112199,2015,07,10,14
+Depreciation and Amortization,San Diego,195303,2015,07,10,14
+Interest,San Diego,66097,2015,07,10,14
+Other,San Diego,5461,2015,07,10,14
+Instruction,San Diego,601272,2015,07,09,14
+Research,San Diego,738309,2015,07,09,14
+Public Service,San Diego,20658,2015,07,09,14
+Academic Support,San Diego,291777,2015,07,09,14
+Student Services,San Diego,89354,2015,07,09,14
+Institutional Support,San Diego,105252,2015,07,09,14
+Operation and Maintenance of Plant,San Diego,60290,2015,07,09,14
+Student Financial Aid,San Diego,64111,2015,07,09,14
+Medical Centers,San Diego,911126,2015,07,09,14
+Auxiliary Enterprises,San Diego,123563,2015,07,09,14
+Depreciation and Amortization,San Diego,210886,2015,07,09,14
+Interest,San Diego,75932,2015,07,09,14
+Other,San Diego,22918,2015,07,09,14
+Instruction,San Francisco,213984,2015,05,08,1
+Research,San Francisco,618260,2015,05,08,1
+Public Service,San Francisco,66898,2015,05,08,1
+Academic Support,San Francisco,276168,2015,05,08,1
+Student Services,San Francisco,15054,2015,05,08,1
+Institutional Support,San Francisco,106471,2015,05,08,1
+Operation and Maintenance of Plant,San Francisco,56452,2015,05,08,1
+Student Financial Aid,San Francisco,33165,2015,05,08,1
+Medical Centers,San Francisco,1409687,2015,05,08,1
+Auxiliary Enterprises,San Francisco,31215,2015,05,08,1
+Depreciation and Amortization,San Francisco,144287,2015,05,08,1
+Impairment of Capital Assets,San Francisco,0,2015,05,08,1
+Interest,San Francisco,31267,2015,05,08,1
+Other,San Francisco,6478,2015,05,08,1
+Instruction,San Francisco,214882,2015,06,02,1
+Research,San Francisco,662229,2015,06,02,1
+Public Service,San Francisco,74517,2015,06,02,1
+Academic Support,San Francisco,281482,2015,06,02,1
+Student Services,San Francisco,16321,2015,06,02,1
+Institutional Support,San Francisco,111018,2015,06,02,1
+Operation and Maintenance of Plant,San Francisco,55010,2015,06,02,1
+Student Financial Aid,San Francisco,34122,2015,06,02,1
+Medical Centers,San Francisco,1519637,2015,06,02,1
+Auxiliary Enterprises,San Francisco,33199,2015,06,02,1
+Depreciation and Amortization,San Francisco,154093,2015,06,02,1
+Impairment of Capital Assets,San Francisco,0,2015,06,02,1
+Interest,San Francisco,30008,2015,06,02,1
+Other,San Francisco,15210,2015,06,02,1
+Instruction,San Francisco,180117,2015,07,07,1
+Research,San Francisco,665367,2015,07,07,1
+Public Service,San Francisco,84462,2015,07,07,1
+Academic Support,San Francisco,271208,2015,07,07,1
+Student Services,San Francisco,17241,2015,07,07,1
+Institutional Support,San Francisco,107621,2015,07,07,1
+Operation and Maintenance of Plant,San Francisco,72411,2015,07,07,1
+Student Financial Aid,San Francisco,33665,2015,07,07,1
+Medical Centers,San Francisco,1583444,2015,07,07,1
+Auxiliary Enterprises,San Francisco,31214,2015,07,07,1
+Depreciation and Amortization,San Francisco,167668,2015,07,07,1
+Impairment of Capital Assets,San Francisco,22803,2015,07,07,1
+Interest,San Francisco,43116,2015,07,07,1
+Other,San Francisco,25560,2015,07,07,1
+Instruction,San Francisco,239543,2015,07,10,14
+Research,San Francisco,698020,2015,07,10,14
+Public Service,San Francisco,104568,2015,07,10,14
+Academic Support,San Francisco,295213,2015,07,10,14
+Student Services,San Francisco,19475,2015,07,10,14
+Institutional Support,San Francisco,107217,2015,07,10,14
+Operation and Maintenance of Plant,San Francisco,62501,2015,07,10,14
+Student Financial Aid,San Francisco,16903,2015,07,10,14
+Medical Centers,San Francisco,1631346,2015,07,10,14
+Auxiliary Enterprises,San Francisco,31112,2015,07,10,14
+Depreciation and Amortization,San Francisco,190130,2015,07,10,14
+Impairment of Capital Assets,San Francisco,0,2015,07,10,14
+Interest,San Francisco,71298,2015,07,10,14
+Other,San Francisco,13314,2015,07,10,14
+Instruction,San Francisco,247798,2015,07,09,14
+Research,San Francisco,744900,2015,07,09,14
+Public Service,San Francisco,127770,2015,07,09,14
+Academic Support,San Francisco,319170,2015,07,09,14
+Student Services,San Francisco,21560,2015,07,09,14
+Institutional Support,San Francisco,173826,2015,07,09,14
+Operation and Maintenance of Plant,San Francisco,66599,2015,07,09,14
+Student Financial Aid,San Francisco,17863,2015,07,09,14
+Medical Centers,San Francisco,1802655,2015,07,09,14
+Auxiliary Enterprises,San Francisco,28694,2015,07,09,14
+Depreciation and Amortization,San Francisco,194007,2015,07,09,14
+Impairment of Capital Assets,San Francisco,0,2015,07,09,14
+Interest,San Francisco,88572,2015,07,09,14
+Other,San Francisco,5485,2015,07,09,14
+Instruction,Santa Barbara,2015,07,10,1469,2015,05,08,1
+Research,Santa Barbara,144727,2015,05,08,1
+Public Service,Santa Barbara,7035,2015,05,08,1
+Academic Support,Santa Barbara,37862,2015,05,08,1
+Student Services,Santa Barbara,65206,2015,05,08,1
+Institutional Support,Santa Barbara,38372,2015,05,08,1
+Operation and Maintenance of Plant,Santa Barbara,32456,2015,05,08,1
+Student Financial Aid,Santa Barbara,44111,2015,05,08,1
+Auxiliary Enterprises,Santa Barbara,73430,2015,05,08,1
+Depreciation and Amortization,Santa Barbara,66175,2015,05,08,1
+Interest,Santa Barbara,29022,2015,05,08,1
+Other,Santa Barbara,4021,2015,05,08,1
+Instruction,Santa Barbara,204167,2015,06,02,1
+Research,Santa Barbara,153561,2015,06,02,1
+Public Service,Santa Barbara,7557,2015,06,02,1
+Academic Support,Santa Barbara,39977,2015,06,02,1
+Student Services,Santa Barbara,68234,2015,06,02,1
+Institutional Support,Santa Barbara,39593,2015,06,02,1
+Operation and Maintenance of Plant,Santa Barbara,32203,2015,06,02,1
+Student Financial Aid,Santa Barbara,48804,2015,06,02,1
+Auxiliary Enterprises,Santa Barbara,75167,2015,06,02,1
+Depreciation and Amortization,Santa Barbara,67600,2015,06,02,1
+Interest,Santa Barbara,31606,2015,06,02,1
+Other,Santa Barbara,16802,2015,06,02,1
+Instruction,Santa Barbara,196384,2015,07,07,1
+Research,Santa Barbara,162229,2015,07,07,1
+Public Service,Santa Barbara,7595,2015,07,07,1
+Academic Support,Santa Barbara,29217,2015,07,07,1
+Student Services,Santa Barbara,67093,2015,07,07,1
+Institutional Support,Santa Barbara,33969,2015,07,07,1
+Operation and Maintenance of Plant,Santa Barbara,31796,2015,07,07,1
+Student Financial Aid,Santa Barbara,64387,2015,07,07,1
+Auxiliary Enterprises,Santa Barbara,75605,2015,07,07,1
+Depreciation and Amortization,Santa Barbara,70700,2015,07,07,1
+Interest,Santa Barbara,30895,2015,07,07,1
+Other,Santa Barbara,6581,2015,07,07,1
+Instruction,Santa Barbara,198491,2015,07,10,14
+Research,Santa Barbara,161680,2015,07,10,14
+Public Service,Santa Barbara,7479,2015,07,10,14
+Academic Support,Santa Barbara,39090,2015,07,10,14
+Student Services,Santa Barbara,68348,2015,07,10,14
+Institutional Support,Santa Barbara,34882,2015,07,10,14
+Operation and Maintenance of Plant,Santa Barbara,33115,2015,07,10,14
+Student Financial Aid,Santa Barbara,74865,2015,07,10,14
+Auxiliary Enterprises,Santa Barbara,73011,2015,07,10,14
+Depreciation and Amortization,Santa Barbara,72049,2015,07,10,14
+Interest,Santa Barbara,30747,2015,07,10,14
+Other,Santa Barbara,10393,2015,07,10,14
+Instruction,Santa Barbara,218124,2015,07,09,14
+Research,Santa Barbara,169307,2015,07,09,14
+Public Service,Santa Barbara,7754,2015,07,09,14
+Academic Support,Santa Barbara,53160,2015,07,09,14
+Student Services,Santa Barbara,67312,2015,07,09,14
+Institutional Support,Santa Barbara,35139,2015,07,09,14
+Operation and Maintenance of Plant,Santa Barbara,37725,2015,07,09,14
+Student Financial Aid,Santa Barbara,97057,2015,07,09,14
+Auxiliary Enterprises,Santa Barbara,83438,2015,07,09,14
+Depreciation and Amortization,Santa Barbara,73124,2015,07,09,14
+Interest,Santa Barbara,30791,2015,07,09,14
+Other,Santa Barbara,11679,2015,07,09,14
+Instruction,Santa Cruz,125138,2015,05,08,1
+Research,Santa Cruz,107667,2015,05,08,1
+Public Service,Santa Cruz,16590,2015,05,08,1
+Academic Support,Santa Cruz,31184,2015,05,08,1
+Student Services,Santa Cruz,51023,2015,05,08,1
+Institutional Support,Santa Cruz,36022,2015,05,08,1
+Operation and Maintenance of Plant,Santa Cruz,31829,2015,05,08,1
+Student Financial Aid,Santa Cruz,10671,2015,05,08,1
+Auxiliary Enterprises,Santa Cruz,83123,2015,05,08,1
+Depreciation and Amortization,Santa Cruz,42554,2015,05,08,1
+Interest,Santa Cruz,16860,2015,05,08,1
+Other,Santa Cruz,1616,2015,05,08,1
+Instruction,Santa Cruz,126517,2015,06,02,1
+Research,Santa Cruz,111044,2015,06,02,1
+Public Service,Santa Cruz,15495,2015,06,02,1
+Academic Support,Santa Cruz,31641,2015,06,02,1
+Student Services,Santa Cruz,51513,2015,06,02,1
+Institutional Support,Santa Cruz,36233,2015,06,02,1
+Operation and Maintenance of Plant,Santa Cruz,24757,2015,06,02,1
+Student Financial Aid,Santa Cruz,12979,2015,06,02,1
+Auxiliary Enterprises,Santa Cruz,83615,2015,06,02,1
+Depreciation and Amortization,Santa Cruz,45147,2015,06,02,1
+Interest,Santa Cruz,15248,2015,06,02,1
+Other,Santa Cruz,116,2015,06,02,1
+Instruction,Santa Cruz,119956,2015,07,07,1
+Research,Santa Cruz,98587,2015,07,07,1
+Public Service,Santa Cruz,12279,2015,07,07,1
+Academic Support,Santa Cruz,27032,2015,07,07,1
+Student Services,Santa Cruz,50069,2015,07,07,1
+Institutional Support,Santa Cruz,29755,2015,07,07,1
+Operation and Maintenance of Plant,Santa Cruz,23207,2015,07,07,1
+Student Financial Aid,Santa Cruz,13186,2015,07,07,1
+Auxiliary Enterprises,Santa Cruz,83477,2015,07,07,1
+Depreciation and Amortization,Santa Cruz,49072,2015,07,07,1
+Interest,Santa Cruz,17575,2015,07,07,1
+Other,Santa Cruz,2962,2015,07,07,1
+Instruction,Santa Cruz,123884,2015,07,10,14
+Research,Santa Cruz,108225,2015,07,10,14
+Public Service,Santa Cruz,12521,2015,07,10,14
+Academic Support,Santa Cruz,27711,2015,07,10,14
+Student Services,Santa Cruz,50420,2015,07,10,14
+Institutional Support,Santa Cruz,36293,2015,07,10,14
+Operation and Maintenance of Plant,Santa Cruz,27394,2015,07,10,14
+Student Financial Aid,Santa Cruz,31158,2015,07,10,14
+Auxiliary Enterprises,Santa Cruz,80674,2015,07,10,14
+Depreciation and Amortization,Santa Cruz,53123,2015,07,10,14
+Interest,Santa Cruz,22372,2015,07,10,14
+Other,Santa Cruz,10636,2015,07,10,14
+Instruction,Santa Cruz,132786,2015,07,09,14
+Research,Santa Cruz,112266,2015,07,09,14
+Public Service,Santa Cruz,14660,2015,07,09,14
+Academic Support,Santa Cruz,28130,2015,07,09,14
+Student Services,Santa Cruz,52844,2015,07,09,14
+Institutional Support,Santa Cruz,38637,2015,07,09,14
+Operation and Maintenance of Plant,Santa Cruz,27019,2015,07,09,14
+Student Financial Aid,Santa Cruz,37870,2015,07,09,14
+Auxiliary Enterprises,Santa Cruz,77494,2015,07,09,14
+Depreciation and Amortization,Santa Cruz,55779,2015,07,09,14
+Interest,Santa Cruz,21107,2015,07,09,14
+Other,Santa Cruz,1802,2015,07,09,14
+Instruction,Berkeley,545004,2015,05,08,1
+Research,Berkeley,422942,2015,05,08,1
+Public Service,Berkeley,57943,2015,05,08,1
+Academic Support,Berkeley,118383,2015,05,08,1
+Student Services,Berkeley,117374,2015,05,08,1
+Institutional Support,Berkeley,127399,2015,05,08,1
+Operation and Maintenance of Plant,Berkeley,75589,2015,05,08,1
+Student Financial Aid,Berkeley,69251,2015,05,08,1
+Auxiliary Enterprises,Berkeley,118294,2015,05,08,1
+Depreciation and Amortization,Berkeley,132408,2015,05,08,1
+Interest,Berkeley,39851,2015,05,08,1
+Other,Berkeley,22433,2015,05,08,1
+Instruction,Berkeley,545060,2015,06,02,1
+Research,Berkeley,481914,2015,06,02,1
+Public Service,Berkeley,60678,2015,06,02,1
+Academic Support,Berkeley,114608,2015,06,02,1
+Student Services,Berkeley,120831,2015,06,02,1
+Institutional Support,Berkeley,131883,2015,06,02,1
+Operation and Maintenance of Plant,Berkeley,71377,2015,06,02,1
+Student Financial Aid,Berkeley,77753,2015,06,02,1
+Auxiliary Enterprises,Berkeley,118249,2015,06,02,1
+Depreciation and Amortization,Berkeley,144210,2015,06,02,1
+Interest,Berkeley,41217,2015,06,02,1
+Other,Berkeley,24560,2015,06,02,1
+Instruction,Berkeley,538650,2015,07,07,1
+Research,Berkeley,508058,2015,07,07,1
+Public Service,Berkeley,55393,2015,07,07,1
+Academic Support,Berkeley,110696,2015,07,07,1
+Student Services,Berkeley,114613,2015,07,07,1
+Institutional Support,Berkeley,117196,2015,07,07,1
+Operation and Maintenance of Plant,Berkeley,71518,2015,07,07,1
+Student Financial Aid,Berkeley,83988,2015,07,07,1
+Auxiliary Enterprises,Berkeley,119885,2015,07,07,1
+Depreciation and Amortization,Berkeley,149835,2015,07,07,1
+Interest,Berkeley,59083,2015,07,07,1
+Other,Berkeley,28593,2015,07,07,1
+Instruction,Berkeley,565946,2015,07,10,14
+Research,Berkeley,533340,2015,07,10,14
+Public Service,Berkeley,60122,2015,07,10,14
+Academic Support,Berkeley,137238,2015,07,10,14
+Student Services,Berkeley,119254,2015,07,10,14
+Institutional Support,Berkeley,134754,2015,07,10,14
+Operation and Maintenance of Plant,Berkeley,65687,2015,07,10,14
+Student Financial Aid,Berkeley,115447,2015,07,10,14
+Auxiliary Enterprises,Berkeley,119126,2015,07,10,14
+Depreciation and Amortization,Berkeley,153714,2015,07,10,14
+Interest,Berkeley,64077,2015,07,10,14
+Other,Berkeley,23224,2015,07,10,14
+Instruction,Berkeley,605804,2015,07,09,14
+Research,Berkeley,549949,2015,07,09,14
+Public Service,Berkeley,66759,2015,07,09,14
+Academic Support,Berkeley,124868,2015,07,09,14
+Student Services,Berkeley,128300,2015,07,09,14
+Institutional Support,Berkeley,154176,2015,07,09,14
+Operation and Maintenance of Plant,Berkeley,70379,2015,07,09,14
+Student Financial Aid,Berkeley,140513,2015,07,09,14
+Auxiliary Enterprises,Berkeley,128591,2015,07,09,14
+Depreciation and Amortization,Berkeley,169917,2015,07,09,14
+Interest,Berkeley,69710,2015,07,09,14
+Other,Berkeley,29338,2015,07,09,14
+Medical Centers,Merced,0,2015,05,08,1
+Medical Centers,Riverside,0,2015,05,08,1
+Medical Centers,Santa Barbara,0,2015,05,08,1
+Medical Centers,Santa Cruz,0,2015,05,08,1
+Medical Centers,Berkeley,0,2015,05,08,1
+Medical Centers,Merced,0,2015,06,02,1
+Medical Centers,Riverside,0,2015,06,02,1
+Medical Centers,Santa Barbara,0,2015,06,02,1
+Medical Centers,Santa Cruz,0,2015,06,02,1
+Medical Centers,Berkeley,0,2015,06,02,1
+Medical Centers,Merced,0,2015,07,07,1
+Medical Centers,Riverside,0,2015,07,07,1
+Medical Centers,Santa Barbara,0,2015,07,07,1
+Medical Centers,Santa Cruz,0,2015,07,07,1
+Medical Centers,Berkeley,0,2015,07,07,1
+Medical Centers,Merced,0,2015,07,10,14
+Medical Centers,Riverside,0,2015,07,10,14
+Medical Centers,Santa Barbara,0,2015,07,10,14
+Medical Centers,Santa Cruz,0,2015,07,10,14
+Medical Centers,Berkeley,0,2015,07,10,14
+Medical Centers,Merced,0,2015,07,09,14
+Medical Centers,Riverside,0,2015,07,09,14
+Medical Centers,Santa Barbara,0,2015,07,09,14
+Medical Centers,Santa Cruz,0,2015,07,09,14
+Medical Centers,Berkeley,0,2015,07,09,14
